@@ -9,8 +9,21 @@ redirect_from:
 
 ---
 
+
+
 <!DOCTYPE html>
 <html>
+
+  <SCRIPT> 
+function openInNewTab(url) {
+  var win = window.open(url, '_blank');
+  win.focus();
+}
+</SCRIPT> 
+
+
+
+
   <!--- JO: title in  --->
   <head>
     <title> JO</title>
@@ -47,7 +60,7 @@ redirect_from:
   If you want some teaching materials go to 
   <a href = "http://www.yeyecoa.acatlan.unam.mx/" data-show-count="false" target="_blank"> yeyecoa project </a> and 
   some academic activities <a href = "https://sites.google.com/view/ctimfesac" data-show-count="false" target="_blank"> 
-  STEM Seminar </a> where you can find some of my projects as associate professor.  
+  STEM Seminar </a> where you can find some of my project as associate professor.  
   </li>
 </ul>
 
@@ -74,13 +87,26 @@ redirect_from:
 data-show-count="false" target="_blank">Time converter</a>
       </a>      
     </h6> 
+    <iframe 
+    src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=eng&size=small&timezone=America%2FMexico_City" 
+    width="90%" height="90" frameborder="0" target="_blank">
+    </iframe>
+</div>
 
-<iframe id="myIframe" src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=eng&size=small&timezone=America%2FMexico_City" onload="refreshLink(this.contentWindow.location.href)">
-</iframe>
+<br>
+<br>
 
-
+<div 
+onclick="openInNewTab('https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=America%2FBogota');">
+Bogota, Colombia.
+</div>
+<br>
+<div 
+onclick="openInNewTab('https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=eng&size=small&timezone=Europe%2FBerlin');">
+Frankfurt city, Germany
 </div>
 
 </body>
 </html>
+
 
