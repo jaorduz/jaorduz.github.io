@@ -74,11 +74,10 @@ redirect_from:
 data-show-count="false" target="_blank">Time converter</a>
       </a>      
     </h6> 
-    <iframe 
-    src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=eng&size=small&timezone=America%2FMexico_City" name="LocalTime"  
-    width="90%" height="90" frameborder="0"">
-    </iframe>
-    <a href = "https://www.zeitverschiebung.net/" target="LocalTime"></a> 
+
+<iframe id="myIframe" src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=eng&size=small&timezone=America%2FMexico_City" onload="refreshLink(this.contentWindow.location.href)">
+</iframe>
+
 
 </div>
 
