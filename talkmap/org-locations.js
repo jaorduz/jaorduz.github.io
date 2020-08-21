@@ -10,7 +10,7 @@ var addressPoints = [
     -73.55599
   ],
   [
-    "Naucalpan de Juarez, MX",
+    "Naucalpan de Juarez, MX (FESAc-UNAM)",
     19.7167,
     -96.8333
   ],
