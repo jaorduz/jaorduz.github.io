@@ -33,5 +33,11 @@ var addressPoints = [
     "Sao Paulo, BRA (ICTP)",
     -23.5242,
     -46.6646
+  ],
+    [
+    "Antigua, GUA",
+    14.5595,
+    -90.7294,
+    "SILAFAE",
   ]
 ];
