@@ -38,6 +38,5 @@ var addressPoints = [
     "Antigua, GUA",
     14.5595,
     -90.7294,
-    "SILAFAE",
   ]
 ];
