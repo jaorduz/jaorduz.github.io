@@ -16,7 +16,7 @@ var addressPoints = [
   ],
     [
     "Sanya, CHINE (Tsinghua Sanya International Mathematics Forum)",
-    "http://www.tsimf.cn/en/index"
+    "http://www.tsimf.cn/en/index",
     18.3192,
     -109.4156
   ],
