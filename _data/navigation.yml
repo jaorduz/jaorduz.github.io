@@ -11,13 +11,12 @@ main:
 
 # JO: deactivated    
 #  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
+#    url: /portfolio/    
   - title: "CV"
     url: /cv/
 # JO: deactivated    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Guide"
+    url: /markdown/
+  - title: "Blog Posts"
+    url: /year-archive/
+
