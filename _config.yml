@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "fr-FR"
+locale                   : "en-US"
 title                    : "Researcher and professor"
 title_separator          : "-"
 name                     : &name "Javier Orduz"
@@ -193,7 +193,6 @@ collections:
 
 # Defaults
 defaults:
-  - sitemap: false
   # _posts
   - scope:
       path: ""
@@ -205,7 +204,6 @@ defaults:
       comments: true
       share: true
       related: true
-      sitemap: false
   # _pages
   - scope:
       path: ""
@@ -213,7 +211,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sitemap: false
   # _teaching
   - scope:
       path: ""
@@ -223,7 +220,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      sitemap: false      
   # _publications
   - scope:
       path: ""
@@ -233,7 +229,6 @@ defaults:
       author_profile: true
       share: true # JO: true. NothingDo
       comments: true
-      sitemap: false
   # _portfolio
   - scope:
       path: ""
@@ -243,7 +238,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      sitemap: false      
+# JO:      sitemap: false      
   # _talks
   - scope:
       path: ""
@@ -252,7 +247,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      sitemap: false      
+#JO:      sitemap: false      
 # Sass/SCSS
 sass:
   sass_dir: _sass
