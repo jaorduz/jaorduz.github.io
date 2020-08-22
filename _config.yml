@@ -300,17 +300,17 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled: []
-  layout: archive
+#jekyll-archives:
+#  enabled: []
+#  layout: archive
 #     - categories
 #     - tags
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
-  permalinks:
-  	category: /categories/:name/
-     	tag: /tags/:name/
+#  permalinks:
+#  	category: /categories/:name/
+#     	tag: /tags/:name/
 
 
 # HTML Compression
