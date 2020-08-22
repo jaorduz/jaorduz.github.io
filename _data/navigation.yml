@@ -17,6 +17,6 @@ main:
 # JO: deactivated    
   - title: "Guide"
     url: /markdown/
-  - title: "Blog Posts"
+  - title: "Blog Posts: ideas and discussions"
     url: /year-archive/
 
