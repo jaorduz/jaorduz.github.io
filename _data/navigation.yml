@@ -15,8 +15,8 @@ main:
   - title: "CV"
     url: /cv/
 # JO: deactivated    
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
   - title: "Blog Posts: ideas and discussions"
     url: /year-archive/
 
