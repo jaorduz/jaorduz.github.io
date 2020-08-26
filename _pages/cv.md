@@ -14,6 +14,15 @@ redirect_from:
 * CV (full, french version) [PDF](https://www.dropbox.com/s/x8dnkj7qpwilsgp/JO_CV_Fr-vOL.pdf?dl=0){:target="_blank"} 
 * CV (full, spanish version) [PDF](https://www.dropbox.com/s/mym14vrdgnl825b/JO_CV_Sp-vOL.pdf?dl=0){:target="_blank"} 
 
+If you have question or want more details, schedule a meeting with me
+
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jaorduz/60min'});return false;">Schedule time with me</a>
+<!-- Calendly link widget end -->
+
+
 
 Education
 ======
