@@ -9,18 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+PDF to download
+======
 * CV (full, english version) [PDF](https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf?dl=0){:target="_blank"} 
 * CV (short, english version) [PDF](https://www.dropbox.com/s/2hkwzghtxd4npxb/CVShortJO.pdf?dl=0){:target="_blank"} 
 * CV (full, french version) [PDF](https://www.dropbox.com/s/x8dnkj7qpwilsgp/JO_CV_Fr-vOL.pdf?dl=0){:target="_blank"} 
 * CV (full, spanish version) [PDF](https://www.dropbox.com/s/mym14vrdgnl825b/JO_CV_Sp-vOL.pdf?dl=0){:target="_blank"} 
-
-If you have question or want more details, schedule a meeting with me
-
 <!-- Calendly link widget begin -->
+If you have question or want more details, 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jaorduz/60min'});return false;">Schedule time with me</a>
 <!-- Calendly link widget end -->
+
+
+
+To meet 2 
+======
+
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/jaorduz/60min" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
+
+
+
+To meet 3
+======
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/jaorduz/60min', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
+<!-- Calendly badge widget end -->
+
 
 
 
