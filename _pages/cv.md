@@ -99,32 +99,4 @@ Service and leadership
 * [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/)
 * [Seminar: CTIM](https://sites.google.com/view/ctimfesac). Check our 
 [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA).
-* [Courses](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal)
-
-<!-- 
-
-To meet 2 
-======
-
-
---Calendly inline widget begin
-<div class="calendly-inline-widget" data-url="https://calendly.com/jaorduz/60min" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
--- Calendly inline widget end -
-
-
-
-
-To meet 3
-======
-
--- Calendly badge widget begin
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/jaorduz/60min', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true });</script>
--- Calendly badge widget end --
-
--->
-
-
-
+* [Courses](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal).
