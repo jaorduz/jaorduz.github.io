@@ -31,15 +31,21 @@ Education
 
 Work experience
 ======
+* January 2021: Postdoctoral Research Scientist
+  * [Baylor University](https://www.baylor.edu/){:target="_blank"}
+  * Topics: 
+    - Quantum Computing
+    - Quantum Machine Learning
+    - Applications and theoretical
 
-
-* February 2017: Associate professor
+* February 2017-2020: Tenure Track
   * [FESAc-UNAM](https://www.acatlan.unam.mx/){:target="_blank"}
   * Projects: 
     - Seminario CTIM
     - yeyecoa project
     - Seminario CTIM Proceedings
     - GCCyC
+
 
 * March 2016: Postdoctoral Researcher
   * [UNAM](https://www.cuautitlan.unam.mx/#gsc.tab=0){:target="_blank"}
@@ -98,7 +104,8 @@ Recent Teaching
 Service and leadership
 ======
 * GCCyC: Group on Quantum and Scientific Computing
-* [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/)
-* [Seminar: CTIM](https://sites.google.com/view/ctimfesac). Check our 
-[youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA).
-* [Courses](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal).
+* [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/){:target="_blank"}
+* [Seminar: CTIM](https://sites.google.com/view/ctimfesac){:target="_blank"}. Check our 
+[youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA){:target="_blank"}.
+* [Courses](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}.
+* [qmexico](qmexico.org){:target="_blank"} founder and coordinator

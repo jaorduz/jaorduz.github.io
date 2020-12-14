@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Waco, USA (BU)",
+    31.54867,
+    -97.11322
+  ],
+  [
     "Long Beach, USA (ICML)",
     33.763889,
     -118.18833
@@ -15,7 +20,7 @@ var addressPoints = [
     -99.2454
   ],
     [
-    "Sanya, CHINE (Tsinghua Sanya International Mathematics Forum)",
+    "Sanya, CHINA (Tsinghua Sanya International Mathematics Forum)",
     18.3192,
     109.4156
   ],
@@ -35,12 +40,12 @@ var addressPoints = [
     -46.6646
   ],
     [
-    "Antigua, GUA",
+    "Antigua, GUA (SILAFAE)",
     14.5595,
     -90.7294,
   ],
     [
-    "Oxford, ENG",
+    "Oxford, ENG (ML Shool)",
     51.7619,
     -1.2623,
   ]

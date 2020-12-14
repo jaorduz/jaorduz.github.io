@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am associate professor at [Acatlan Faculty of Higher Studies](https://www.acatlan.unam.mx/){:target="_blank"} ([UNAM](https://www.unam.mx/){:target="_blank"}). I am enrolled in the [applied mathematics and computing program](http://www.mac.acatlan.unam.mx/){:target="_blank"}. I give courses about computing, Mathematics, Quantum Computing; and promotes topics as Quantum Machine Learning and Machine Learning in the FESAc-UNAM community.
+Experienced professor and researcher about mathematics, physics, and computing; I have strengthened
+different projects at under and postgraduate levels. I currently work as a postdoctoral researcher
+scientist on Quantum Computing and Quantum Machine Learning at Baylor University in Waco, Texas. 
+
+
 
 <!--
+I am associate professor at [Acatlan Faculty of Higher Studies](https://www.acatlan.unam.mx/){:target="_blank"} ([UNAM](https://www.unam.mx/){:target="_blank"}). I am enrolled in the [applied mathematics and computing program](http://www.mac.acatlan.unam.mx/){:target="_blank"}. I give courses about computing, Mathematics, Quantum Computing; and promotes topics as Quantum Machine Learning and Machine Learning in the FESAc-UNAM community.
+
 I filled my doctor of sciences degree in 2014.
 -->
 
