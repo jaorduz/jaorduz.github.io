@@ -8,13 +8,37 @@ redirect_from:
   - /about.html
 ---
 
+Javier Orduz <jaorduz@gmail.com>
+	
+Wed, Jun 2, 7:00 PM
+	
+to Ruth
+
+Dr. Javier Orduz is a Research Scholar of Computer Science at 
+Baylor University in Texas. He worked in UNAM (Mexico) for five years 
+as a Postdoctoral and Associate Professor before arriving in the 
+USA and work with Dr. Erich Baker and Dr. Pablo Rivas. He also 
+ coordinates QMexico ([QMexico](http://qmexico.org/){:target="_blank"}), an academic community 
+  interested in promoting Quantum Computing in Latin America. 
+  He participates as Research Scientist in Baylor AI, a group led by 
+Dr. Rivas ([Baylor AI Lab](https://baylor.ai/){:target="_blank"}), 
+is a mentor in LatinX community 
+
+[LatinX AI](https://www.latinxinai.org/){:target="_blank"}, and has experience teaching and 
+ researching Quantum Machine Learning, Quantum Computing, Machine 
+  Learning, and High Energy Physics.
+Dr. Orduz loves Mathematics, Physics, and Computing, and he promotes 
+science in Latin America with a high interest in technology. 
+
+
+
+
+<!--
 Experienced professor and researcher about mathematics, physics, and computing; I have strengthened
 different projects at under and postgraduate levels. I currently work as a postdoctoral researcher
 scientist on Quantum Computing and Quantum Machine Learning at Baylor University in Waco, Texas. 
 
 
-
-<!--
 I am associate professor at [Acatlan Faculty of Higher Studies](https://www.acatlan.unam.mx/){:target="_blank"} ([UNAM](https://www.unam.mx/){:target="_blank"}). I am enrolled in the [applied mathematics and computing program](http://www.mac.acatlan.unam.mx/){:target="_blank"}. I give courses about computing, Mathematics, Quantum Computing; and promotes topics as Quantum Machine Learning and Machine Learning in the FESAc-UNAM community.
 
 I filled my doctor of sciences degree in 2014.
