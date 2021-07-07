@@ -8,15 +8,11 @@ date: 2021-08-06
 location: "Waco, USA"
 ---
 
-
 This course shows the Quantum Computing foundations. For each session, 
 I like implementing new pedagogical and technical knowledge 
 to share mathematical and physical concepts. 
 On the [BU website](https://tinyurl.com/yhgalmw6), you will 
 figure out more information.
-
-
-
 
 
 | Instructor   |      Javier Orduz      |   |

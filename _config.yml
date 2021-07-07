@@ -259,8 +259,8 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # JO: 
-timezone: America/Mexico_City 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Regina
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones, America/Mexico_City
 
 
 # Plugins
