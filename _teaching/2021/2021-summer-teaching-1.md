@@ -5,10 +5,7 @@ type: "Graduate course"
 permalink: /teaching/2021/summer-teaching-1
 venue: "Department of Computer Science, Baylor University"
 location: "Waco, USA"
-tags:
-  - cool courses
-  - category1
-  - category2
+date: 2021-07-09
 ---
 
 
@@ -23,9 +20,8 @@ figure out more information.
 
 
 
-======
 
-
+Here some extra information
 
 
 
@@ -33,6 +29,9 @@ figure out more information.
 |--------------------|:-----------------------:|----------------:|
 | Office Location |  TBD |  |
 | Office Hours |    Wednesday/Friday   |   1:30-2:30 pm, or by appointment |
+
+
+Find this course in canvas 
 
 <!--
 
