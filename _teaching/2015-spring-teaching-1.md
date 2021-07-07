@@ -2,9 +2,9 @@
 title: "Programming I"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "Acatlan Faculty of Higher Studies, Mathematics and Engineering Department"
-date: 2014-09-21
+date: 2015-02-01
 location: "Naucalpan de Juarez, Mexico"
 ---
 
