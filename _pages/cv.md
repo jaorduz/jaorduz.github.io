@@ -23,6 +23,13 @@ If you have question or want more details, <link href="https://assets.calendly.c
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jaorduz/60min'});return false;">Schedule time with me.</a>
 Calendly link widget end -->
 
+
+
+
+
+
+
+
 Education
 ======
 * B.S. in Physic, [UPTC](http://www.uptc.edu.co/){:target="_blank"}, 2008
@@ -31,6 +38,15 @@ Education
 
 Work experience
 ======
+
+* July 2021: Instructor
+  * [Baylor University](https://www.baylor.edu/){:target="_blank"}
+  * Topics: 
+    - Quantum Computing
+    - Quantum Machine Learning
+    - Applications and theoretical
+
+
 * January 2021: Postdoctoral Research Scientist
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
   * Topics: 
@@ -91,18 +107,34 @@ Publications and other derivated contributions
   
 Recent Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  <ul>	
+  	{% for post in site.talks %}
+    	{% include archive-single-talk-cv.html %}
+  	{% endfor %}
+  </ul>
   
 Recent Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+	{% for post in site.teaching %}
+    	{% include archive-single-cv.html %}
+  	{% endfor %}
+  </ul>
+  
+
+Thesis Students and Honors
+======  
+
+**I am writting this section**
+  
+Funding
+======
+
+**I am writting this section** 
   
 Service and leadership
 ======
+* [BaylorAI](https://baylor.ai/){:target="_blank"}: [Dr. Rivas](https://rivas.ai/){:target="_blank"} leads this Group which is about Artificial Intelligence, Quantum and Scientific Computing
 * GCCyC: Group on Quantum and Scientific Computing
 * [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/){:target="_blank"}
 * [Seminar: CTIM](https://sites.google.com/view/ctimfesac){:target="_blank"}. Check our 
