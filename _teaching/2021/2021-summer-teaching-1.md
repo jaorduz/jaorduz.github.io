@@ -5,7 +5,6 @@ type: "Graduate course"
 permalink: /teaching/2021/summer-teaching-1
 venue: "Department of Computer Science, Baylor University"
 location: "Waco, USA"
-date: 2021-07-09
 ---
 
 
@@ -14,7 +13,7 @@ date: 2021-07-09
 This course shows the Quantum Computing foundations. For each session, 
 I like implementing new pedagogical and technical knowledge 
 to share mathematical and physical concepts. 
-On the [BU website](https://tinyurl.com/yhgalmw6), you will 
+On the [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, you will 
 figure out more information.
 
 
@@ -31,12 +30,4 @@ Here some extra information
 | Office Hours |    Wednesday/Friday   |   1:30-2:30 pm, or by appointment |
 
 
-Find this course in canvas 
-
-<!--
-
-This course shows the programming foundations. For each session, I like implementing new pedagogical and technical knowledge to share ideas about programming logic. Since I love mathematics, I use to take some pictures and concepts to do examples in programming.
-
-On the [UNAM FESAc's website](https://unam-fesac.github.io/), you will 
-figure out more information.
--->
+Find this course in canvas.
