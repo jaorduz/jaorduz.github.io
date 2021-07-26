@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<<<<<<< Updated upstream
-Dr. Javier Orduz is a Research Scholar of Computer Science at 
+
+
+Dr. Javier Orduz is a Research Scholar and instructor of Computer Science at 
 Baylor University in Texas. He worked in UNAM (Mexico) for five years 
 as a Postdoctoral and Associate Professor before arriving in the 
 USA and work with Dr. Erich Baker and Dr. Pablo Rivas. He also 
