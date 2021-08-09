@@ -11,10 +11,19 @@ redirect_from:
 
 PDF to download
 ======
-* CV (full, english version) [PDF](https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf?dl=0){:target="_blank"} 
-* CV (short, english version) [PDF](https://www.dropbox.com/s/2hkwzghtxd4npxb/CVShortJO.pdf?dl=0){:target="_blank"} 
-* CV (full, french version) [PDF](https://www.dropbox.com/s/x8dnkj7qpwilsgp/JO_CV_Fr-vOL.pdf?dl=0){:target="_blank"} 
-* CV (full, spanish version) [PDF](https://www.dropbox.com/s/mym14vrdgnl825b/JO_CV_Sp-vOL.pdf?dl=0){:target="_blank"} 
+* CV English version (up-to-date)
+  - Full [PDF](https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf?dl=0){:target="_blank"} 
+* List of Publication [PDF](https://www.dropbox.com/s/71d0964uzmpnvte/JO_LoP_En-vAl.pdf?dl=0){:target="_blank"} 
+* Research Statement [PDF](https://www.dropbox.com/s/rbejg8cse7njgt6/Eng-Rsrch_Sttmnt-JAOD.pdf?dl=0){:target="_blank"}
+* Teaching Statement [PDF](https://www.dropbox.com/s/j75d3umi7la36b2/EngTSttmntJAOD.pdf?dl=0){:target="_blank"} 
+
+
+* Short [PDF](https://www.dropbox.com/s/2hkwzghtxd4npxb/CVShortJO.pdf?dl=0){:target="_blank"} 
+
+* CV French version
+  - Full [PDF](https://www.dropbox.com/s/x8dnkj7qpwilsgp/JO_CV_Fr-vOL.pdf?dl=0){:target="_blank"} 
+* Spanish version
+  - Full [PDF](https://www.dropbox.com/s/mym14vrdgnl825b/JO_CV_Sp-vOL.pdf?dl=0){:target="_blank"} 
 
 
 <!-- Calendly link widget begin 
