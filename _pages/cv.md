@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 # PDF to download<a name="PDFCVInfoJO"></a>
-======
 #### [home](../)
 
 [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}   
@@ -116,7 +115,7 @@ Thesis Students and Honors
 
 
 [1] Angelica Perez, Master in education (Mathematics), 2020. Mex.
-[1] Aaron Rodriguez, Bachelor in Applied Mathematics, 2022. Mex.
+[2] Aaron Rodriguez, Bachelor in Applied Mathematics, 2022. Mex.
   
 Funding
 ======
