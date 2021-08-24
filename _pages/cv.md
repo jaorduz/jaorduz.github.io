@@ -11,7 +11,7 @@ redirect_from:
 
 
 # PDF to download<a name="PDFCVInfoJO"></a>
-### [Go back](../)
+#### [Go back](../)
 
 ======
 * CV English version (up-to-date)
@@ -82,7 +82,10 @@ Work experience
   * [UNAM](https://www.unam.mx/){:target="_blank"}
   * Distance education: Physics laboratory for High education
   * [CUAED](https://distancia.cuaed.unam.mx/){:target="_blank"}
-  
+
+
+### [Go back](../)
+
 Skills
 ======
 * Physics
@@ -135,10 +138,9 @@ Recent Teaching
 Thesis Students and Honors
 ======  
 
-**I am writting this section**
 
-[1] Angelica 
-
+[1] Angelica Perez, Master in education (Mathematics), 2020. Mex.
+[1] Aaron Rodriguez, Bachelor in Applied Mathematics, 2020. Mex.
   
 Funding
 ======
