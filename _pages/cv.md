@@ -15,14 +15,6 @@ redirect_from:
 
 [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}   
 
-<!-- Calendly link widget begin 
-
-Calendly link widget end -->
-
-
-
-#### [home](../)
-
 
 Education
 ======
