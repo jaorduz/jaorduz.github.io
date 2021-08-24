@@ -8,8 +8,7 @@ location: "Waco, USA"
 ---
 
 
-
-
+# About this course 
 This course shows the Quantum Computing foundations. For each session, 
 I like implementing new pedagogical and technical knowledge 
 to share mathematical and physical concepts. 
@@ -18,11 +17,7 @@ figure out more information.
 
 
 
-
-
-Here some extra information
-
-
+Here some extra information:
 
 | Instructor   |      Javier Orduz      |   |
 |--------------------|:-----------------------:|----------------:|
@@ -31,3 +26,6 @@ Here some extra information
 
 
 Find this course in canvas.
+
+# Bibliography and references
+[1] Nielsen MA, Chuang I. Quantum computation and quantum information. [Source](https://tinyurl.com/yewzs3cn){:target="_blank"}

@@ -27,9 +27,7 @@ PDF to download
 
 
 <!-- Calendly link widget begin 
-If you have question or want more details, <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/jaorduz/60min'});return false;">Schedule time with me.</a>
+
 Calendly link widget end -->
 
 
@@ -135,6 +133,9 @@ Thesis Students and Honors
 ======  
 
 **I am writting this section**
+
+[1] Angelica 
+
   
 Funding
 ======
@@ -146,7 +147,7 @@ Service and leadership
 * [BaylorAI](https://baylor.ai/){:target="_blank"}: [Dr. Rivas](https://rivas.ai/){:target="_blank"} leads this Group which is about Artificial Intelligence, Quantum and Scientific Computing
 * GCCyC: Group on Quantum and Scientific Computing
 * [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/){:target="_blank"}
-* [Seminar: CTIM](https://sites.google.com/view/ctimfesac){:target="_blank"}. Check our 
-[youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA){:target="_blank"}.
-* [Courses](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}.
-* [qmexico](qmexico.org){:target="_blank"} founder and coordinator
+* [Seminar: CTIM](https://sites.google.com/view/ctimfesac){:target="_blank"}. Check our [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA){:target="_blank"}.
+* [Python Course](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}.
+* [qmexico](http://qmexico.org/){:target="_blank"} founder and coordinator
+* [Washington Quantum Computing](https://www.meetup.com/Washington-Quantum-Computing-Meetup){:target="_blank"} Co-moderator 
