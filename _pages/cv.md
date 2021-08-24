@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-PDF to download
+
+# PDF to download<a name="PDFCVInfoJO"></a>
+### [Go back](../)
+
 ======
 * CV English version (up-to-date)
   - Full [PDF](https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf?dl=0){:target="_blank"} 
@@ -33,7 +36,7 @@ Calendly link widget end -->
 
 
 
-
+### [Go back](../)
 
 
 
@@ -151,3 +154,7 @@ Service and leadership
 * [Python Course](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}.
 * [qmexico](http://qmexico.org/){:target="_blank"} founder and coordinator
 * [Washington Quantum Computing](https://www.meetup.com/Washington-Quantum-Computing-Meetup){:target="_blank"} Co-moderator 
+
+
+#### [Up](#PDFCVInfoJO)
+#### [back](../../)
