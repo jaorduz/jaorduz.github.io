@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!--#### [Up](#PDFCVInfoJO)-->
-#### [back](../)
+#### [home](../)
 
 {% if author.googlescholar %}
   You can also find my articles on 
@@ -21,4 +21,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-#### [back](../)
+#### [home](../)

@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
 # PDF to download<a name="PDFCVInfoJO"></a>
-#### [Go back](../)
+#### [home](../)
 
 ======
 * CV English version (up-to-date)
@@ -35,9 +34,7 @@ Calendly link widget end -->
 
 
 
-
-### [Go back](../)
-
+#### [home](../)
 
 
 Education
@@ -84,7 +81,7 @@ Work experience
   * [CUAED](https://distancia.cuaed.unam.mx/){:target="_blank"}
 
 
-### [Go back](../)
+#### [home](../)
 
 Skills
 ======
@@ -110,7 +107,7 @@ Skills
   * Models for science education
   
  
-Publications and other derivated contributions
+Publications and other related contributions
 ======
   <ul>
   	{% for post in site.publications %}
@@ -140,7 +137,7 @@ Thesis Students and Honors
 
 
 [1] Angelica Perez, Master in education (Mathematics), 2020. Mex.
-[1] Aaron Rodriguez, Bachelor in Applied Mathematics, 2020. Mex.
+[1] Aaron Rodriguez, Bachelor in Applied Mathematics, 2022. Mex.
   
 Funding
 ======
@@ -159,4 +156,4 @@ Service and leadership
 
 
 #### [Up](#PDFCVInfoJO)
-#### [back](../../)
+#### [home](../)
