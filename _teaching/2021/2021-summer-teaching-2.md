@@ -8,7 +8,8 @@ location: "Waco, USA"
 ---
 
 #### [home](../)
-# About this course 
+
+
 
 This course shows Tiny Machine Learning principles. This course is in spanish and you can find on [EDX-LatinX](http://edx.latinxinai.org/courses/course-v1:Baylor+CSI5V90+2021_Fall/about){:target="_blank"}.
 
