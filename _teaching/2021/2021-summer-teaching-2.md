@@ -10,14 +10,14 @@ location: "Waco, USA"
 #### [home](../)
 # About this course 
 
-This course shows Tiny Machine Learning principles. This course is in spanish and you can find on the [EDX-LatinX](http://edx.latinxinai.org/courses/course-v1:Baylor+CSI5V90+2021_Fall/about){:target="_blank"}.
+This course shows Tiny Machine Learning principles. This course is in spanish and you can find on [EDX-LatinX](http://edx.latinxinai.org/courses/course-v1:Baylor+CSI5V90+2021_Fall/about){:target="_blank"}.
 
 Here some extra information:
 
 | Instructor   |      Instituttion      |
 |--------------------|:----------------:|
 | Pablo Rivas |  Baylor University  |
-| Erenesto Quevedo |  Baylor University  |
+| Ernesto Quevedo |  Baylor University  |
 | Graciela Ramirez | Universidad Autonoma de Chihuahua  |
 | Javier Orduz |  Baylor University  |
 
