@@ -131,6 +131,8 @@ Service and leadership
 * [Python Course](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}.
 * [qmexico](http://qmexico.org/){:target="_blank"} founder and coordinator
 * [Washington Quantum Computing](https://www.meetup.com/Washington-Quantum-Computing-Meetup){:target="_blank"} Co-moderator 
+* LatinX Mentor
+* ICML volunteer 
 
 
 #### [Up](#PDFCVInfoJO)

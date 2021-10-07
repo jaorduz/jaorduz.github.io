@@ -7,15 +7,10 @@ venue: "Department of Computer Science, Baylor University"
 location: "Waco, USA"
 ---
 
-
+#### [home](../)
 # About this course 
-This course shows the Quantum Computing foundations. For each session, 
-I like implementing new pedagogical and technical knowledge 
-to share mathematical and physical concepts. 
-On the [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, you will 
-figure out more information.
 
-
+This course shows the Quantum Computing foundations. For each session, I like implementing new pedagogical and technical knowledge to share mathematical and physical concepts. On the [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, you will figure out more information.
 
 Here some extra information:
 
@@ -29,3 +24,5 @@ Find this course in canvas.
 
 # Bibliography and references
 [1] Nielsen MA, Chuang I. Quantum computation and quantum information. [Source](https://tinyurl.com/yewzs3cn){:target="_blank"}
+
+#### [home](../)
