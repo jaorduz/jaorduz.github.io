@@ -28,15 +28,7 @@ languages.
 [2] Deitel HM, Deitel PJ. C: how to program. Prentice-Hall, Inc.; 1992 Jan 3. [Source](https://tinyurl.com/yf8xuf9l){:target="_blank"}
 
 
-
-<!--
-On the [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, you will 
-figure out more information.
--->
-
-
 Here extra information
-
 
 
 | Instructor   |      Javier Orduz      |   |

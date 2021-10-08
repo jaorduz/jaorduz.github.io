@@ -9,8 +9,6 @@ location: "Waco, USA"
 
 #### [home](../)
 
-
-
 This course shows Tiny Machine Learning principles. This course is in spanish and you can find on [EDX-LatinX](http://edx.latinxinai.org/courses/course-v1:Baylor+CSI5V90+2021_Fall/about){:target="_blank"}.
 
 Here some extra information:
@@ -21,7 +19,6 @@ Here some extra information:
 | Ernesto Quevedo |  Baylor University  |
 | Graciela Ramirez | Universidad Autonoma de Chihuahua  |
 | Javier Orduz |  Baylor University  |
-
 
 Find this course in EDX. 
 
