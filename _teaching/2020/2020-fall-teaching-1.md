@@ -3,11 +3,13 @@ title: "Introduction and advance programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020/teaching-1
-venue: "Department of Mathematics and Engineering, National Autonomous University of Mexico (FESAc-UNAM)"
+venue: "Department of Mathematics and Engineering, National Autonomous University of Mexico"
 location: "Mexico, Mex"
 ---
 
 #### [home](../)
+
+
 # Introduction to programming (fall)
 
 This course contains basic information about C programming language, 
@@ -38,5 +40,6 @@ Here extra information
 
 
 Find this course in Moodle.
+
 
 #### [home](../)
