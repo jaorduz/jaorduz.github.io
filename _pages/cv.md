@@ -9,22 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-# PDF to download<a name="PDFCVInfoJO"></a>
-#### [home](../)
-
-| [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}  |
-
-
-Education
-======
 <style>
 td, th {
    border: none!important;
 }
 </style>
 
+
+
+# PDF to download<a name="PDFCVInfoJO"></a>
+#### [home](../)
+
+| ------- | ------- | ------- | ------- |
+| [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}  |
+| ------- | ------- | ------- | ------- |
+
+Education
+======
+
 | Ph.D (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2014 |  M.S (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2010 |  B.S. in Physic, [UPTC](http://www.uptc.edu.co/){:target="_blank"}, 2008 |
 
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>Key 1</td>
+      <td>Value 1</td>
+    </tr>
+    <tr>
+      <td>Key 2</td>
+      <td>Value 2</td>
+    </tr>
+  </tbody>
+</table>
 
 
 Work experience
