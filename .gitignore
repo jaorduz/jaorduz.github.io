@@ -9,3 +9,7 @@
 /markdown_generator/*
 /talkmap/*
 
+.ipynb
+.py
+.md
+
