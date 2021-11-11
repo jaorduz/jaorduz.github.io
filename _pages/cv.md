@@ -24,13 +24,13 @@ td, th {
 <!-- | [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}  | -->
 
 
-<table style="border:hidden;">
+<table style="border:hidden" colspan="3">
   <tbody>
     <tr>
-      <td> <a href="https://tinyurl.com/ycxz6ce2" target="_blank" rel="noopener noreferrer">CV Full</a>.</td> 
-      <td>[List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"}</td>
-      <td>[Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}</td>
-      <td>[Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}</td>
+      <td> <a href="https://tinyurl.com/ycxz6ce2" target="_blank" rel="noopener noreferrer">CV Full</a>.</td>
+      <td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a>.</td>
+      <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a>.</td>
+      <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a>.</td>                 
     </tr>
     <!-- <tr>
       <td>Key 2</td>
@@ -51,9 +51,9 @@ Education
 <table style="border:hidden;">
   <tbody>
     <tr>
-      <td>Ph.D (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2014</td>
-      <td>M.S (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2010</td>
-      <td>B.S. in Physic, [UPTC](http://www.uptc.edu.co/){:target="_blank"}, 2008</td>      
+      <td> Doctor of Sciences (Applied Physics)<a href="https://www.fcfm.buap.mx/" target="_blank" rel="noopener noreferrer">BUAP</a>, 2014.</td>
+      <td> Master of Sciences (Applied Physics)<a href="https://www.fcfm.buap.mx/" target="_blank" rel="noopener noreferrer">BUAP</a>, 2010.</td>
+      <td> Bachelor's degree Physicist<a href="http://www.uptc.edu.co/" target="_blank" rel="noopener noreferrer">UPTC</a>, 2008.</td>
     </tr>
   </tbody>
 </table>
