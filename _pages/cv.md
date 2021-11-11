@@ -27,10 +27,10 @@ td, th {
 <table style="border:hidden" colspan="3">
   <tbody>
     <tr>
-      <td> <a href="https://tinyurl.com/ycxz6ce2" target="_blank" rel="noopener noreferrer">CV Full</a>.</td>
-      <td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a>.</td>
-      <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a>.</td>
-      <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a>.</td>                 
+      <td> <a href="https://tinyurl.com/ycxz6ce2" target="_blank" rel="noopener noreferrer">CV Full</a></td>
+      <td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
+      <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
+      <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
     </tr>
     <!-- <tr>
       <td>Key 2</td>
@@ -44,16 +44,12 @@ td, th {
 Education
 ======
 
-| Ph.D (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2014 |  M.S (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2010 |  B.S. in Physic, [UPTC](http://www.uptc.edu.co/){:target="_blank"}, 2008 |
-
-
-
 <table style="border:hidden;">
   <tbody>
     <tr>
-      <td> Doctor of Sciences (Applied Physics)<a href="https://www.fcfm.buap.mx/" target="_blank" rel="noopener noreferrer">BUAP</a>, 2014.</td>
-      <td> Master of Sciences (Applied Physics)<a href="https://www.fcfm.buap.mx/" target="_blank" rel="noopener noreferrer">BUAP</a>, 2010.</td>
-      <td> Bachelor's degree Physicist<a href="http://www.uptc.edu.co/" target="_blank" rel="noopener noreferrer">UPTC</a>, 2008.</td>
+      <td> Doctor of Sciences (Applied Physics) <a href="https://www.fcfm.buap.mx/" target="_blank" rel="noopener noreferrer">BUAP</a>, 2014.</td>
+      <td> Master of Sciences (Applied Physics) <a href="https://www.fcfm.buap.mx/" target="_blank" rel="noopener noreferrer">BUAP</a>, 2010.</td>
+      <td> Bachelor's degree Physicist <a href="http://www.uptc.edu.co/" target="_blank" rel="noopener noreferrer">UPTC</a>, 2008.</td>
     </tr>
   </tbody>
 </table>
