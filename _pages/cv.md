@@ -17,22 +17,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physic, [UPTC](http://www.uptc.edu.co/){:target="_blank"}, 2008
-* M.S (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2010
-* Ph.D (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2014
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+* Ph.D (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2014 | * M.S (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2010 | * B.S. in Physic, [UPTC](http://www.uptc.edu.co/){:target="_blank"}, 2008
+
+
 
 Work experience
 ======
 
-* July 2021: Instructor
+* July 2021: Adjunct Professor of Computer Science @ Baylor University
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
   * Topics: 
     - Quantum Computing
-    - Quantum Machine Learning
-    - Applications and theoretical
+    - Computing
 
 
-* January 2021: Postdoctoral Research Scientist
+* January 2021: Research Scholar
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
   * Topics: 
     - Quantum Computing
@@ -110,13 +115,20 @@ Recent Teaching
   </ul>
   
 
-Thesis Students and Honors
+Thesis Students
 ======  
 
 
 [1] Angelica Perez, Master in education (Mathematics), 2020. Mex.
 [2] Aaron Rodriguez, Bachelor in Applied Mathematics, 2022. Mex.
   
+
+Honors
+======
+[1] SNI 1, Mexican goverment recognition as researcher.
+
+
+
 Funding
 ======
 
