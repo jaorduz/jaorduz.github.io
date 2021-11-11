@@ -24,6 +24,24 @@ td, th {
 | [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}  |
 | <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> |
 
+
+<table style="border:hidden;">
+  <tbody>
+    <tr>
+      <td>[CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} </td>
+      <td>[List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"}</td>
+      <td>[Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}</td>
+      <td>[Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}</td>
+    </tr>
+    <!-- <tr>
+      <td>Key 2</td>
+      <td>Value 2</td>
+    </tr> -->
+  </tbody>
+</table>
+
+
+
 Education
 ======
 
@@ -34,12 +52,9 @@ Education
 <table style="border:hidden;">
   <tbody>
     <tr>
-      <td>Key 1</td>
-      <td>Value 1</td>
-    </tr>
-    <tr>
-      <td>Key 2</td>
-      <td>Value 2</td>
+      <td>Ph.D (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2014</td>
+      <td>M.S (Applied Physics), [BUAP](https://www.fcfm.buap.mx/){:target="_blank"}, 2010</td>
+      <td>B.S. in Physic, [UPTC](http://www.uptc.edu.co/){:target="_blank"}, 2008</td>      
     </tr>
   </tbody>
 </table>
