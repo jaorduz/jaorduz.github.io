@@ -20,15 +20,14 @@ td, th {
 # PDF to download<a name="PDFCVInfoJO"></a>
 #### [home](../)
 
-| <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> |
-| [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}  |
-| <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> | <!-- ------------------------------------------------ --> |
+
+<!-- | [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}  | -->
 
 
 <table style="border:hidden;">
   <tbody>
     <tr>
-      <td>[CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} </td>
+      <td> <a href="https://tinyurl.com/ycxz6ce2" target="_blank" rel="noopener noreferrer">CV Full</a>.</td> 
       <td>[List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"}</td>
       <td>[Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}</td>
       <td>[Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}</td>
