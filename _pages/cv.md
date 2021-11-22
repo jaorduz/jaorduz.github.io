@@ -53,9 +53,6 @@ Work experience
 ======
 
 
-Recent Teaching
-======
-
   <ul>
 	{% for post in site.experience %}
     	{% include archive-single-cv.html %}
@@ -63,15 +60,9 @@ Recent Teaching
   </ul>
 
 
-<!--->
-<table style="border:hidden" colspan="3">
-  <tbody>
-    <tr>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-<--->
+
+Recent Teaching
+======
 
 * July 2021: Adjunct Professor of Computer Science @ Baylor University
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
