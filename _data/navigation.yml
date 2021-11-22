@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Experience"
-    url: /experience/
+#  - title: "Experience"
+#    url: /experience/
 # JO: deactivated    
 #  - title: "Portfolio"
 #    url: /portfolio/    
@@ -19,6 +19,6 @@ main:
 # JO: deactivated    
 #  - title: "Guide"
 #    url: /markdown/
-#  - title: "Blog Posts: ideas and discussions"
-#    url: /year-archive/
+  - title: "Blog Posts: ideas and discussions"
+    url: /year-archive/
 
