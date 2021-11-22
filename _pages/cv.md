@@ -52,6 +52,27 @@ Education
 Work experience
 ======
 
+
+Recent Teaching
+======
+
+  <ul>
+	{% for post in site.experience %}
+    	{% include archive-single-cv.html %}
+  	{% endfor %}
+  </ul>
+
+
+<!--->
+<table style="border:hidden" colspan="3">
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<--->
+
 * July 2021: Adjunct Professor of Computer Science @ Baylor University
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
   * Topics: 
@@ -90,10 +111,6 @@ Work experience
 
 Skills
 ======
-
-
-
-
 
 <table style="border:hidden" colspan="3">
   <tbody>
