@@ -21,8 +21,6 @@ td, th {
 #### [home](../)
 
 
-<!-- | [CV Full](https://tinyurl.com/ycxz6ce2){:target="_blank"} | [List of Publication](https://tinyurl.com/yeg3sssd){:target="_blank"} | [Research Statement](https://tinyurl.com/ydpjzefq){:target="_blank"}  | [Teaching Statement](https://tinyurl.com/yecsx4hn){:target="_blank"}  | -->
-
 
 <table style="border:hidden" colspan="3">
   <tbody>
@@ -32,10 +30,6 @@ td, th {
       <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
       <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
     </tr>
-    <!-- <tr>
-      <td>Key 2</td>
-      <td>Value 2</td>
-    </tr> -->
   </tbody>
 </table>
 
@@ -96,26 +90,41 @@ Work experience
 
 Skills
 ======
-* Physics
-  * High Energy Physics
-  * Quantum Mechanics
-  * Higgs Physics
-  * Beyond Standard Model
-  * Standard Model
-* Mathematics
-  * Calculus
-  * Linear Algebra
-  * Geometry
-* Computing
-  * Python
-  * C
-  * C++
-  * Swift
-  * IOSX
-  * Linux
-* Education
-  * Distance education
-  * Models for science education
+
+
+
+
+
+<table style="border:hidden" colspan="3">
+  <tbody>
+    <tr>
+      <td> High Energy Physics </td>
+      <td> Calculus</td>
+      <td> Python</td>
+      <td> Science and education</td>
+    </tr>
+    <tr>
+      <td> Quantum Mechanics</td>
+      <td> Linear Algebra</td>
+      <td> C/C++ and Swift</td>
+      <td> Science education</td>
+    </tr> 
+    <tr>
+      <td> Higgs Physics</td>
+      <td> Geometry</td>
+      <td> IOS X</td>      
+      <td> </td>
+      <td> </td>            
+    </tr>
+     <tr>
+      <td> Standard Model and Beyond</td>
+      <td> </td>
+      <td> Linux</td>      
+    </tr>    
+  </tbody>
+</table>
+
+
   
  
 Publications and other related contributions
