@@ -1,30 +1,15 @@
 ---
-title: "Higgs decay mediated by top-quark with flavor-changing neutral scalar interactions"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This is a recent paper, more of them will be reported soon.'
-date: 2017-10-01
-venue: 'J. Phys.: Conf. Ser.912 012032'
-paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/912/1/012032/pdf'
-link: 'https://doi.org/10.1088/1742-6596/912/1/012032'
-citation: 'Orduz-Ducuara, J. A. (2017). &quot;Higgs decay mediated by top-quark with flavor-changing neutral scalar interactions.&quot; <i>J. Phys.: Conf. Ser.912 012032</i>. 1(1).'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation (BibTeX): 
-```{=latex}
-@article{Orduz-Ducuara:2017gpd,
-    author = "Orduz-Ducuara, J.A.",
-    editor = "Bautista, I. and de la Cruz Burelo, E. and Fernández-Téllez, A. and López-Castro, G. and Rodríguez-Cahuantzi, M. and Roig, P.",
-    title = "{Higgs decay mediated by top-quark with flavor-changing neutral scalar interactions}",
-    eprint = "1710.08984",
-    archivePrefix = "arXiv",
-    primaryClass = "hep-ph",
-    doi = "10.1088/1742-6596/912/1/012032",
-    journal = "J. Phys. Conf. Ser.",
-    volume = "912",
-    number = "1",
-    pages = "012032",
-    year = "2017"
-}
-```
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
