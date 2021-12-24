@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Las Vegas, USA (CSCI2021)",
+    36.096451,
+    -115.188795
+  ],
+  [
     "Waco, USA (BU)",
     31.54867,
     -97.11322
