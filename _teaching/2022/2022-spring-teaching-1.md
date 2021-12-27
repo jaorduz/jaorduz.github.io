@@ -16,7 +16,7 @@ This course will be taught online (Canvas. 202213 CSI 5310 OL1).
 
 Here some extra information:
 
-| Instructor   |      Instituttion      |
+| Instructor   |      Institution      |
 |--------------------|:----------------:|
 | Javier Orduz |  Baylor University  |
 
