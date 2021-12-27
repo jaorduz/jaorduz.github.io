@@ -7,8 +7,6 @@ venue: "Department of Computer Science, Baylor University"
 location: "Waco, USA"
 ---
 
-#### [home](../)
-
 
 This course is an introduction to the theory of computation. It covers formal models of computation, computability, complexity, and related topics. This course forms a foundation for much of the subsequent work/research you will do in computer science. As you'll see, computation theory is fascinating because there are problems which we can describe simply which have not yet been solved.
 
@@ -28,5 +26,3 @@ Check the references to find the textbook, and please note: using another editio
 # Bibliography and references
 
 [1] Sipser, M. (2015). Introduction to the theory of computation (3rd ed.). Cengage Learning. ISBN-13: 978-1133187790. [Amazon](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X){:target="_blank"}
-
-#### [home](../)
