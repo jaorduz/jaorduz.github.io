@@ -36,10 +36,11 @@ td, th {
 <table style="border:hidden" colspan="3">
   <tbody>
     <tr>
-      <td> <a href="https://tinyurl.com/ycxz6ce2" target="_blank" rel="noopener noreferrer">CV Full</a></td>
-      <td> <a href="https://tinyurl.com/y6zezdab" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
-      <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
-      <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
+      <td> <a href="https://tinyurl.com/yc69akqr" target="_blank" rel="noopener noreferrer">CV Full</a></td>
+      <td> <a href="https://tinyurl.com/y7rqnqna" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
+<!---      <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
+      <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</td>                 
+  --->    
     </tr>
   </tbody>
 </table>
