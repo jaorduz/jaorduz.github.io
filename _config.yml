@@ -132,7 +132,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - CHANGELOG.md
   - Capfile
   - Gemfile
   - Gruntfile.js
@@ -272,7 +272,8 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # JO: 
-timezone: America/Regina
+timezone: US/East-Indiana
+# America/Regina
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones, America/Mexico_City
 
 

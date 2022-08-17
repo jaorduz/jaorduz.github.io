@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Las Vegas, USA (CSCI2021)",
+    "Las Vegas, USA (CSCE2022, CSCI2021)",
     36.096451,
     -115.188795
   ],
