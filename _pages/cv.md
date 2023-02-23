@@ -7,17 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<!---
-<iframe src="https://www.dropbox.com/s/67gfnrz8e91syyk/JO_CV_En-vOL.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
---->
-
-
-
-
-
-
 {% include base_path %}
 
 <style>
@@ -36,11 +25,10 @@ td, th {
 <table style="border:hidden" colspan="3">
   <tbody>
     <tr>
-      <td> <a href="https://tinyurl.com/yc69akqr" target="_blank" rel="noopener noreferrer">CV Full</a></td>
-      <td> <a href="https://tinyurl.com/y7rqnqna" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
-<!---      <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
-      <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</td>                 
-  --->    
+      <td> <a href="https://tinyurl.com/ycxz6ce2" target="_blank" rel="noopener noreferrer">CV Full</a></td>
+      <td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
+      <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
+      <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
     </tr>
   </tbody>
 </table>
@@ -59,6 +47,18 @@ Education
     </tr>
   </tbody>
 </table>
+
+
+Work experience
+======
+
+
+  <ul>
+	{% for post in site.experience %}
+    	{% include archive-single-cv.html %}
+  	{% endfor %}
+  </ul>
+
 
 
 Recent Teaching

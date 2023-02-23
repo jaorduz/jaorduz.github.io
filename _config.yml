@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Javier Orduz"
   avatar           : "Javier Orduz_01.jpg"
-  bio              : "Researcher, instructor, and Quantum Computing and Machine Learning scientist."
-  location         : "Earlham College"
+  bio              : "Researcher, professor, and Quantum Computing and Machine Learning scientist."
+  location         : "Baylor University"
   employer         :
 # JO
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -132,7 +132,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG.md
+  - CHANGELOG
   - Capfile
   - Gemfile
   - Gruntfile.js
@@ -272,8 +272,7 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # JO: 
-timezone: US/East-Indiana
-# America/Regina
+timezone: America/Regina
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones, America/Mexico_City
 
 
