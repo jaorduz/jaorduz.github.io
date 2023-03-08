@@ -82,14 +82,14 @@ analytics:
 # Site Author
 author:
   name             : "Javier Orduz"
-  avatar           : "bio-photo.jpg"
+  avatar           : "JO200X200.jpg"
   bio              : "Researcher, professor, and Quantum Computing and Machine Learning scientist."
   location         : "Baylor University"
   employer         :
 # JO
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=es&authuser=1&user=rHvwRj0AAAAJ"
-  email            : "Javier_OrduzDucuara@baylor.edu"
+  email            : "jaorduz@ieee.org"
   researchgate     :  "https://www.researchgate.net/profile/J_Orduz-Ducuara"
   uri              : 
   bitbucket        :
@@ -250,7 +250,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false # JO: true.
 # JO:      sitemap: false      
   # _talks
   - scope:
@@ -272,8 +272,8 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # JO: 
-timezone: America/Regina
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones, America/Mexico_City
+timezone: America/Fort_Wayne
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones, America/Mexico_City, America/Regina
 
 
 # Plugins
