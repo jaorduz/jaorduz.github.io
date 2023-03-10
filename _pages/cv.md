@@ -25,10 +25,11 @@ td, th {
 <table style="border:hidden" colspan="3">
   <tbody>
     <tr>
-      <td> <a href="https://tinyurl.com/ycxz6ce2" target="_blank" rel="noopener noreferrer">CV Full</a></td>
-      <td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
+      <td> <a href="https://github.com/jaorduz/jaorduz.github.io/blob/0f50b08dc2939b05335049aaa57fc318bd9e4765/files/paper3.pdf" target="_blank" rel="noopener noreferrer">CV Full</a></td>
+<!---      <td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
       <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
       <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
+--->      
     </tr>
   </tbody>
 </table>
@@ -63,6 +64,15 @@ Work experience
 
 Recent Teaching
 ======
+
+* July 2021: Visiting asistant Professor of CS and Maht @ Earlham college
+  * [Baylor University](https://earlham.edu/faculty-staff/javier-orduz/){:target="_blank"}
+  * Topics: 
+    - Math
+    - Computing
+    - Physics
+    - Data Sciece and Cybersecurity
+
 
 * July 2021: Adjunct Professor of Computer Science @ Baylor University
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
