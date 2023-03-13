@@ -25,7 +25,7 @@ td, th {
 <table style="border:hidden" colspan="3">
   <tbody>
     <tr>
-      <td> <a href="https://github.com/jaorduz/jaorduz.github.io/blob/0f50b08dc2939b05335049aaa57fc318bd9e4765/files/paper3.pdf" target="_blank" rel="noopener noreferrer">CV Full</a></td>
+      <td> <a href="https://www.dropbox.com/s/tdt1q6b8b6jl001/FullCV_JO.pdf?dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td>
 <!---      <td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
       <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
       <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
