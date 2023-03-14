@@ -1,0 +1,24 @@
+# main links links
+main:
+  - title: "Teaching"
+    url: /teaching/    
+  
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Experience"
+    url: /experience/
+# JO: deactivated    
+#  - title: "Portfolio"
+#    url: /portfolio/    
+  - title: "CV"
+    url: /cv/
+# JO: deactivated    
+#  - title: "Guide"
+#    url: /markdown/
+#  - title: "Blog Posts: ideas and discussions"
+#    url: /year-archive/
+
