@@ -3,6 +3,7 @@ title: "Introduction and advance programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020/teaching-1
+date: 2017-02-01
 venue: "Department of Mathematics and Engineering, National Autonomous University of Mexico"
 location: "Mexico, Mex"
 ---
