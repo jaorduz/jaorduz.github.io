@@ -8,8 +8,6 @@ venue: "Department of Mathematics and Engineering, National Autonomous Universit
 location: "Mexico, Mex"
 ---
 
-#### [home](../)
-
 
 # Introduction to programming (fall)
 
@@ -41,6 +39,3 @@ Here extra information
 
 
 Find this course in Moodle.
-
-
-#### [home](../)

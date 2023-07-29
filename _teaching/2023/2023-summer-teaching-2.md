@@ -8,9 +8,6 @@ venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"
 ---
 
-
-#### [home](../)
-
 This course (MATH 230) is a basic course about Electromagnetism, Waves, and Optics, in this context is an introduction to Physics.
 It considers a review of basic 
 concepts such as Harmonic motion, 
@@ -33,5 +30,3 @@ Find this course in official website.
 
 # Bibliography and references
 [1] Giancoli, D. Physics. Principle with applications. [Source](https://www.pearson.com/en-us/subject-catalog/p/physics-principles-and-applications/P200000006936/9780137679065){:target="_blank"}
-
-#### [home](../)

@@ -8,9 +8,6 @@ venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"
 ---
 
-
-#### [home](../)
-
 This course (DS 401) is a medium  level course.
 It considers a review of basic 
 concepts such as: Central limit theorem, 
@@ -33,5 +30,3 @@ Find this course in canvas.
 
 # Bibliography and references
 [1] Giancoli, D. Physics. Principle with applications. [Source](https://www.pearson.com/en-us/subject-catalog/p/physics-principles-and-applications/P200000006936/9780137679065){:target="_blank"}
-
-#### [home](../)

@@ -8,9 +8,6 @@ venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"
 ---
 
-
-#### [home](../)
-
 This course (MATH 195) provides students with a review of the basic mathematical tools they need in 
 computer science field. 
 These concepts are every day in computer scientists' life.
@@ -31,5 +28,3 @@ Find this course in canvas.
 
 # Bibliography and references
 [1] Levin O.  Discrete Mathematics. An Open Introduction. [Source](https://discrete.openmathbooks.org/dmoi3.html){:target="_blank"}
-
-#### [home](../)

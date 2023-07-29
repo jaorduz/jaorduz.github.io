@@ -9,8 +9,6 @@ location: "Richmond, USA"
 ---
 
 
-#### [home](../)
-
 This course (DS 401) is a medium  level course.
 It considers a review of basic 
 concepts such as: Central limit theorem, 
@@ -36,4 +34,3 @@ Find this course in canvas.
 
 ## Extra material
 [1] [Harvard Github](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)
-#### [home](../)
