@@ -8,11 +8,7 @@ venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"
 ---
 
-This course (PHYS 120) is an introduction to Physics.
-It considers a review of basic 
-concepts such as: measurements, 
-vectors, Newton's laws, and more.
-In addition, it provides a discussion and review of different topics on Physics. 
+This course (PHYS 120) is an introduction to Physics. It considers a review of basic concepts such as: measurements, vectors, Newton's laws, and more. In addition, it provides a discussion and review of different topics on Physics. 
 <!-- [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"},  -->
 
 Here some extra information:

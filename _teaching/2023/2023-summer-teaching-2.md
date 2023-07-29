@@ -8,14 +8,7 @@ venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"
 ---
 
-This course (MATH 230) is a basic course about Electromagnetism, Waves, and Optics, in this context is an introduction to Physics.
-It considers a review of basic 
-concepts such as Harmonic motion, 
-Electric charge, Electric Field, 
-Electromagnetic waves, Geometric Optics, and more.
-We will work on physical and mathematical concepts.
-We will use an Algebra background; therefore, we will go over some 
-theorems or definitions.
+This course (MATH 230) is a basic course about Electromagnetism, Waves, and Optics, in this context is an introduction to Physics. It considers a review of basic concepts such as Harmonic motion,  Electric charge, Electric Field, Electromagnetic waves, Geometric Optics, and more. We will work on physical and mathematical concepts. We will use an Algebra background; therefore, we will go over some theorems or definitions.
 <!--[BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, -->
 
 Here some extra information:

@@ -8,12 +8,7 @@ venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"
 ---
 
-This course (MATH 195) provides students with a review of the basic mathematical tools they need in 
-computer science field. 
-These concepts are every day in computer scientists' life.
-We will focus on discrete mathematics; this field will be helpful for a general audience interested in Computer Science.
-This course contains theory and discussions: it is a course to think, not to calculate. 
-Find material for this course on official website.
+This course (MATH 195) provides students with a review of the basic mathematical tools they need in computer science field. These concepts are every day in computer scientists' life. We will focus on discrete mathematics; this field will be helpful for a general audience interested in Computer Science. This course contains theory and discussions: it is a course to think, not to calculate. Find material for this course on official website.
 <!--[BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, -->
 
 Here some extra information:

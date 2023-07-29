@@ -9,20 +9,16 @@ location: "Mexico, Mex"
 ---
 
 
+During my time in Mexico I mainly taught programming courses. This is a brief description.
+
 # Introduction to programming (fall)
 
-This course contains basic information about C programming language, 
-techniques, and tools to start to coding.
-I like to implement new pedagogical and technical knowledge 
-to share mathematical and physics. 
+This course contains basic information about C programming language, techniques, and tools to start to coding. I like to implement new pedagogical and technical knowledge to share mathematical and physics. 
 
 
 # Advance programming (spring)
 
-This course shows some advance topics on C programming language,
-with some short scripts in Python, C++, and Swift topics.
-Student should to be independent to work in different programming 
-languages.
+This course shows some advance topics on C programming language, with some short scripts in Python, C++, and Swift topics. Student should to be independent to work in different programming languages.
 
 # Bibliography and references
 [1] Kochan SG. Programming in C. Pearson education; 2015.[Source](https://tinyurl.com/ygg56pr3){:target="_blank"}

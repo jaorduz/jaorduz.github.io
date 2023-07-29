@@ -9,12 +9,7 @@ location: "Richmond, USA"
 ---
 
 
-This course (DS 401) is a medium  level course.
-It considers a review of basic 
-concepts such as: Central limit theorem, 
-Confidence intervals, Regressions, models, and more.
-In addition, it provides implementation with Jupyter Notebooks
-and applications in different areas. 
+This course (DS 401) is a medium  level course. It considers a review of basic concepts such as: Central limit theorem,  Confidence intervals, Regressions, models, and more. In addition, it provides implementation with Jupyter Notebooks and applications in different areas. 
 
 It is anticipated that you should spend on average 3 - 6 hours of work per week beyond the classroom time to be competitive in this class. 
 <!-- [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"},  -->
