@@ -3,6 +3,7 @@ title: "Tiny Machine Learning"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021/summer-teaching-2
+date: 2021-02-01
 venue: "Department of Computer Science, Baylor University"
 location: "Waco, USA"
 ---
@@ -20,7 +21,7 @@ Here some extra information:
 | Graciela Ramirez | Universidad Autonoma de Chihuahua  |
 | Javier Orduz |  Baylor University  |
 
-Find this course in EDX. 
+Find this course on EDX. 
 
 # Bibliography and references
 [1] Warden, P., & Situnayake, D. (2019). Tinyml: Machine learning with tensorflow lite on arduino and ultra-low-power microcontrollers. O'Reilly Media. [Source](https://tinyurl.com/yhlsrakn){:target="_blank"}
