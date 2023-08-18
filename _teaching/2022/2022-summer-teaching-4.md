@@ -9,7 +9,7 @@ location: "Waco, USA"
 ---
 
 
-This course shows the computing foundations (CS 5310). For each session, I like implementing new pedagogical and technical knowledge to share mathematical and physical concepts. On the [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, you will figure out more information.
+This course shows the computing foundations (CS 5310). For each session, I like implementing new pedagogical and technical knowledge to share mathematical and computational concepts. On the [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, you will figure out more information.
 
 
 
