@@ -19,7 +19,7 @@ Here some extra information:
 | Office Hours |    Wednesday/Friday   |   1:30-2:30 pm, or by appointment |
 
 
-Find this course in canvas.
+Find this course in Moodle.
 
 # Bibliography and references
 [1] Levin O.  Discrete Mathematics. An Open Introduction. [Source](https://discrete.openmathbooks.org/dmoi3.html){:target="_blank"}
