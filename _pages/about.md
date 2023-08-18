@@ -7,25 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Dr. Javier Orduz holds the distinguished position of Visiting Assistant Professor at Earlham College and also serves as an Instructor at Baylor University. His academic journey is a demonstration of his expansive and varied expertise, reflecting significant contributions to research, teaching, and mentorship. Embarking on his trajectory, he assumed the mantle of a Research Scholar and an instructor of Computer Science at Baylor University in Texas. Progressing from this pivotal role, he embarked on a transformative chapter in Mexico, dedicating five years to the Universidad Nacional Autónoma de México (UNAM) as a Postdoctoral and Associate Professor. During his tenure at UNAM, he collaborated closely with two esteemed luminaries in the realm of computer science, Dr. Erich Baker and Dr. Pablo Rivas, both of whom played pivotal roles in shaping his academic journey.
 
+Dr. Orduz's influence extends well beyond the bounds of academia. His commitment to the burgeoning potential of quantum computing in Latin America is evident through his role as the coordinator at QMexico ([QMexico](http://qmexico.org/){:target="_blank"}). Within this dynamic educational community, he is a driving force, ceaselessly working to disseminate quantum computing education and research across the region. As a Research Scientist within the realm of ([Baylor AI Lab](https://baylor.ai/){:target="_blank"}), he delves into the frontiers of quantum machine learning, contributing to the field's progression through innovative algorithmic approaches. Dr. Orduz's dedication also encompasses mentorship within the  [LatinX AI](https://www.latinxinai.org/){:target="_blank"} community, where he nurtures and empowers underrepresented cohorts within the realm of artificial intelligence.
 
+A true exemplar of accomplishment, Dr. Orduz's expertise spans diverse domains, including quantum machine learning, quantum computing, machine learning, and high-energy physics. His passion for the domains of mathematics, physics, and computing permeates his prolific body of work, underscoring his profound enthusiasm. Driven by an unflagging zeal, he continually advances scientific consciousness and fuels the flames of technology and science within the fabric of Latin America. His role as a model for underrepresented groups within the scientific sphere speaks volumes about his commitment to fostering transformation within the region's technological landscape. To delve deeper into his contributions, you can explore his profile further.
 
-Dr. Javier Orduz is a Visiting Assistant Professor at Earlham College and Instructor at Baylor University, was a Research Scholar and instructor of Computer Science at Baylor University in Texas, worked in UNAM (Mexico) for five years as a Postdoctoral and Associate Professor before arriving in the USA and work with Dr. Erich Baker and Dr. Pablo Rivas. He also coordinates QMexico ([QMexico](http://qmexico.org/){:target="_blank"}), an academic community interested in promoting Quantum Computing in Latin America.  He participated as Research Scientist in Baylor AI, a group led by Dr. Rivas ([Baylor AI Lab](https://baylor.ai/){:target="_blank"}), is a mentor in LatinX community [LatinX AI](https://www.latinxinai.org/){:target="_blank"}, and has experience teaching and researching Quantum Machine Learning, Quantum Computing, Machine Learning, and High Energy Physics. Dr. Orduz loves Mathematics, Physics, and Computing, and he promotes science in Latin America with a high interest in technology. 
 
 <!--
-Experienced professor and researcher about mathematics, physics, and computing; I have strengthened
-=======
-Experienced professor and researcher about mathematics, physics, and computing.
-Javier studied Physics in Colombia ([UPTC]{})
-I have strengthened
->>>>>>> Stashed changes
-different projects at under and postgraduate levels. I currently work as a postdoctoral researcher
-scientist on Quantum Computing and Quantum Machine Learning at Baylor University in Waco, Texas. 
-
-
 I am associate professor at [Acatlan Faculty of Higher Studies](https://www.acatlan.unam.mx/){:target="_blank"} ([UNAM](https://www.unam.mx/){:target="_blank"}). I am enrolled in the [applied mathematics and computing program](http://www.mac.acatlan.unam.mx/){:target="_blank"}. I give courses about computing, Mathematics, Quantum Computing; and promotes topics as Quantum Machine Learning and Machine Learning in the FESAc-UNAM community.
 
-I filled my doctor of sciences degree in 2014.
 -->
 
 <!--
