@@ -9,7 +9,7 @@ location: "Waco, USA"
 ---
 
 
-This course shows the computing foundations (CS 5310). For each session, I like implementing new pedagogical and technical knowledge to share mathematical and computational concepts. On the [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, you will figure out more information.
+This course shows the computing foundations (CS 5310). For each session, I like implementing new pedagogical and technical knowledge to share mathematical and computational concepts. On the [BU website](https://www1.baylor.edu/scheduleofclasses/Results.aspx?Term=202413&College=Z&Prefix=Z&StartCN=Z&EndCN=Z&Status=Z&Days=Z&Instructor=ORDUZ&IsMini=false&OnlineOnly=0&POTerm=Z&CourseAttr=Z&Sort=SN){:target="_blank"}, you will figure out more information.
 
 
 

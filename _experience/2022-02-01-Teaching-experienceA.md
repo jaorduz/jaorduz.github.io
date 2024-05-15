@@ -14,6 +14,7 @@ location: "Waco, USA"
 * July 2022: Instructor
   * [Earlham College](https://www.earlham.edu/){:target="_blank"}
   * Courses: 
+    - Aritificial Intelligence and Machine Learning (CS 365)
     - Elementary Statistics (Math 120)
     - Statistics Modeling for Data Science (DS 401)
     - Math Toolkit (Math 195)
