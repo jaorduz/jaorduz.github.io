@@ -11,7 +11,7 @@ location: "Waco, USA"
 #### [home](../)
 
 
-* January 2021: Research Scholar
+* November 2020: Research Scholar
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
   * Topics: 
     - Quantum Computing

@@ -184,14 +184,14 @@ Honors
 
 
 
-Funding
+<!-- Funding
 ======
 
-**I am writting this section** 
+**I am writting this section**  -->
   
 Service and leadership
 ======
-* [BaylorAI](https://baylor.ai/){:target="_blank"}: [Dr. Rivas](https://rivas.ai/){:target="_blank"} leads this Group which is about Artificial Intelligence, Quantum and Scientific Computing
+* [BaylorAI](https://baylor.ai/){:target="_blank"}: [Dr. Rivas](https://rivas.ai/){:target="_blank"} led this Group which is about Artificial Intelligence, Quantum and Scientific Computing
 * GCCyC: Group on Quantum and Scientific Computing
 * [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/){:target="_blank"}
 * [Seminar: CTIM](https://sites.google.com/view/ctimfesac){:target="_blank"}. Check our [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA){:target="_blank"}.

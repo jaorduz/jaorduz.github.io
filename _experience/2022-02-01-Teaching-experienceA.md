@@ -2,7 +2,7 @@
 title: "Visiting Assistant Professor"
 collection: experience
 type: "Teaching"
-permalink: /experience/2020-11-01-Research-experienceA
+permalink: /experience/2022-02-01-Teaching-experienceA
 date: 2022-02-01
 venue: "Computer Science and Math Department"
 location: "Waco, USA"

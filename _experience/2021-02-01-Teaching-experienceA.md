@@ -2,7 +2,7 @@
 title: "Instructor"
 collection: experience
 type: "Teaching"
-permalink: /experience/2020-11-01-Research-experienceA
+permalink: /experience/2021-02-01-Teaching-experienceA
 date: 2021-02-01
 venue: "Computer Science Department"
 location: "Waco, USA"

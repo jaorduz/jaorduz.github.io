@@ -88,7 +88,7 @@ author:
   employer         :
 # JO
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=es&authuser=1&user=rHvwRj0AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=eng&authuser=1&user=rHvwRj0AAAAJ"
   email            : "jaorduz@ieee.org"
   researchgate     :  "https://www.researchgate.net/profile/J_Orduz-Ducuara"
   uri              : 
@@ -149,6 +149,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  
 keep_files:
   - .git
   - .svn
