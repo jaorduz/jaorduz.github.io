@@ -2,8 +2,8 @@
 title: "Research Scholar"
 collection: experience
 type: "Research"
-permalink: /experience/2016-01-03-Research-experienceA
-date: 2016-01-03
+permalink: /experience/2015-01-03-Research-experienceA
+date: 2015-01-03
 venue: "DGAPA-UNAM"
 location: "Mexico City, Mex"
 ---
