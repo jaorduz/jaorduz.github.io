@@ -1,0 +1,10 @@
+
+# Remove posts.
+_posts
+*.md
+
+
+
+# Don't include VSCode generated files
+.vscode
+*.code-workspace
