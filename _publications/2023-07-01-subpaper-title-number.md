@@ -9,5 +9,3 @@ venue: 'Google Scholar'
 paperurl: 'https://scholar.google.com/citations?hl=eng&authuser=1&user=rHvwRj0AAAAJ'
 citation: 'Orduz, J.'
 ---
-
-**Note:** Please, go to my Google scholar. You will find my most recent contributions. 

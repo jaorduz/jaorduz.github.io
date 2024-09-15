@@ -191,7 +191,9 @@ Honors
   
 Service and leadership
 ======
-* 2024. LatinX Mentor
+* 2024-. Quaker-ECE. [Principal Investigator](https://quaker-ece.cs.earlham.edu/){:target="_blank"}.
+* 2024-. Qauntum computing: A gentle introduction for Liberal Arts Institutions. [Co-author](https://earlham-college.github.io/quaker-ece/frontmatter.html){:target="_blank"}. 
+* 2024-. LatinX Mentor
 * 2023-. [APS](https://www.aps.org/){:target="_blank"}. Member
 * 2022-. [IEEE](https://www.ieee.org/){:target="_blank"}. Member.
 * 2022-2023. [BaylorAI](https://baylor.ai/){:target="_blank"}: [Dr. Rivas](https://rivas.ai/){:target="_blank"} led this Group which is about Artificial Intelligence, Quantum and Scientific Computing.
