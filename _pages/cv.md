@@ -192,7 +192,7 @@ Honors
 Service and leadership
 ======
 * 2024-. Quaker-ECE. [Principal Investigator](https://quaker-ece.cs.earlham.edu/){:target="_blank"}.
-* 2024-. Qauntum computing: A gentle introduction for Liberal Arts Institutions. [Co-author](https://earlham-college.github.io/quaker-ece/frontmatter.html){:target="_blank"}. 
+* 2024-. Quantum computing: A gentle introduction for Liberal Arts Institutions. [Co-author](https://earlham-college.github.io/quaker-ece/frontmatter.html){:target="_blank"}. 
 * 2024-. LatinX Mentor
 * 2023-. [APS](https://www.aps.org/){:target="_blank"}. Member
 * 2022-. [IEEE](https://www.ieee.org/){:target="_blank"}. Member.
