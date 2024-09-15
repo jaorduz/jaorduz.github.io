@@ -25,7 +25,7 @@ td, th {
 <table style="border:hidden" colspan="3">
   <tbody>
     <tr>
-      <td> <a href="https://www.dropbox.com/s/tdt1q6b8b6jl001/FullCV_JO.pdf?dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td>
+      <td> <a href="https://www.dropbox.com/scl/fi/ljmrv8g60ex1i4qzd2zi0/FullCV_JO.pdf?rlkey=v1lwoild1djyif6rvdvxmv7jv&dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td>
 <!---      <td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
       <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
       <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
@@ -191,15 +191,17 @@ Honors
   
 Service and leadership
 ======
-* [BaylorAI](https://baylor.ai/){:target="_blank"}: [Dr. Rivas](https://rivas.ai/){:target="_blank"} led this Group which is about Artificial Intelligence, Quantum and Scientific Computing
-* GCCyC: Group on Quantum and Scientific Computing
-* [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/){:target="_blank"}
-* [Seminar: CTIM](https://sites.google.com/view/ctimfesac){:target="_blank"}. Check our [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA){:target="_blank"}.
-* [Python Course](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}.
-* [qmexico](http://qmexico.org/){:target="_blank"} founder and coordinator
-* [Washington Quantum Computing](https://www.meetup.com/Washington-Quantum-Computing-Meetup){:target="_blank"} Co-moderator 
-* LatinX Mentor
-* ICML volunteer 
+* 2024. LatinX Mentor
+* 2023-. [APS](https://www.aps.org/){:target="_blank"}. Member
+* 2022-. [IEEE](https://www.ieee.org/){:target="_blank"}. Member.
+* 2022-2023. [BaylorAI](https://baylor.ai/){:target="_blank"}: [Dr. Rivas](https://rivas.ai/){:target="_blank"} led this Group which is about Artificial Intelligence, Quantum and Scientific Computing.
+* 2017-2022. GCCyC: Group on Quantum and Scientific Computing
+* 2015-2017. [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/){:target="_blank"}.
+* 2017-2022 [Seminar: CTIM](https://sites.google.com/view/ctimfesac){:target="_blank"}. Check our [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA){:target="_blank"}.
+<!-- * 2019. [Python Course](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}. -->
+* 2019. [qmexico](http://qmexico.org/){:target="_blank"} founder and coordinator.
+* 2021. [Washington Quantum Computing](https://www.meetup.com/Washington-Quantum-Computing-Meetup){:target="_blank"} Co-moderator. 
+* 2022. ICML volunteer 
 
 
 #### [Up](#PDFCVInfoJO)
