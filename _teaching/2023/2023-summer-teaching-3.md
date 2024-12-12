@@ -2,7 +2,7 @@
 title: "Statistics Modeling for Data Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022/summer-teaching-1
+permalink: /teaching/2023/summer-teaching-1
 date: 2023-07-23
 venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"
