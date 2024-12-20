@@ -1,24 +1,30 @@
 ---
-title: "Artificial Intelligence and Machine Learning"
+title: "Statistics Modeling for Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024/spring-teaching-1
-date: 2024-01-05
+date: 2024-07-24
 venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"
 ---
 
-This course (CS 365) unveils the core principles of intelligence in machines, from its historical roots to cutting-edge applications. It covers their theoretical underpinnings while providing opportunities to put various techniques into practice. Unravel the fundamental concepts of Neural Networks, Convolutional Neural Networks, and the Bayesian version of ML. You build your own AI through interactive labs, tackling real-world challenges. Prepare to shape the future of intelligent systems. This course contains theory and discussions: it is a course to read, learn about history, it contains topics to think, and to calculate. Find material for this course on official website.
-<!--[BU website](https://tinyurl.com/yhgalmw6){:target="_blank"}, -->
+This course, advanced DS 401, provides intensive instruction and participation. The meticulously selected latest edition of the course combines a robust set of resources including archives, exercises, interactive activities and engaging lectures, making it a stimulating and engaging learning experience. The course includes a comprehensive review of basic concepts, particularly the central limit theorem, confidence intervals, regression analysis, model building, and several other related topics. In addition, the course seamlessly combines in-depth theoretical understanding with practical skills through comprehensive Jupyter notebook implementations and hands-on applications in a variety of fields.
+
+It is anticipated that you should spend on average 3 - 6 hours of work per week beyond the classroom time to be competitive in this class. 
+<!-- [BU website](https://tinyurl.com/yhgalmw6){:target="_blank"},  -->
+
+Here some extra information:
+
+| Instructor   |      Javier Orduz      |   |
+|--------------------|:-----------------------:|----------------:|
+| Office Location |  TBD |  |
+| Office Hours |    Wednesday/Friday   |   1:30-2:30 pm, or by appointment |
+
 
 Find this course in Moodle.
 
 # Bibliography and references
-[1] Stuart J Russell and Peter Norvig. Artificial intelligence a modern ap-
-proach. London, 2010. [URL](https://www.pearson.com/en-us/subject-catalog/p/artificial-intelligence-a-modern-approach/P200000003500/9780137505135). This book has extra material in the following website [http://aima.cs.berkeley.edu/](http://aima.cs.berkeley.edu/) and this repository [https://github.com/aimacode](https://github.com/aimacode). Additionally, the version 4rth includes
-this website with the exercises [https://aimacode.github.io/aima-exercises/](https://aimacode.github.io/aima-exercises/).
-
-
+[1] Diez, D. OpenIntro Statistics. Edition 4th. [Source](https://www.openintro.org/book/os/){:target="_blank"}. [Github](https://github.com/OpenIntroStat/openintro-statistics)
 
 ## Extra material
-[1] My github [https://github.com/Earlham-College/CS365](https://github.com/Earlham-College/CS365)
+[1] [Harvard Github](https://harvard-iacs.github.io/2019-CS109A/pages/materials.html)
