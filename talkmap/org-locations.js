@@ -1,5 +1,15 @@
 var addressPoints = [
   [
+    "Oxford, USA (Miami University)",
+    39.511245980436, 
+    -84.73139637245366
+  ],
+  [
+    "Las Vegas, USA (CSCI)",
+    36.12633074771421, 
+    -115.18468268517731
+  ],
+  [
     "Waco, USA (BU)",
     31.54867,
     -97.11322
