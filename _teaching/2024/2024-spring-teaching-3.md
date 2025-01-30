@@ -2,7 +2,7 @@
 title: "Artificial Intelligence and Machine Learning"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024/spring-teaching-1
+permalink: /teaching/2024/spring-teaching-3
 date: 2024-01-05
 venue: "Department of Math and Computer Science, Earlham College"
 location: "Richmond, USA"

@@ -2,7 +2,7 @@
 title: "Advanced Algorithms"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024/spring-teaching-1
+permalink: /teaching/2024/spring-teaching-2
 date: 2024-09-05
 venue: "Department of Computer Science, Baylor University"
 location: "Waco, USA"
