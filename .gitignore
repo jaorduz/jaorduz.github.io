@@ -8,3 +8,12 @@ _posts
 # Don't include VSCode generated files
 .vscode
 *.code-workspace
+
+#Folders
+files/
+_experience/
+_includes/
+_pages/
+_portfolio/
+_data/
+_sass
