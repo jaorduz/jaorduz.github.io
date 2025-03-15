@@ -84,11 +84,12 @@ author:
   name             : "Javier Orduz"
   avatar           : "image-alignment-150x150.jpg"
   bio              : "Researcher, professor, and Quantum Computing and Machine Learning scientist."
-  location         : "Earlham College"
-  employer         :
+  location         : "Richomond, IN, USA"
+  employer         : "Earlham College"
 # JO
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=eng&authuser=1&user=rHvwRj0AAAAJ"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55948440900"
+  pubmed           : "https://www.webofscience.com/wos/author/record/B-7459-2018"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=rHvwRj0AAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   email            : "jaorduz@ieee.org"
   researchgate     :  "https://www.researchgate.net/profile/J_Orduz-Ducuara"
   uri              : 
