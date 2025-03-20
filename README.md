@@ -3,6 +3,7 @@
 1. To add a post
     1.1. Go to _posts folder and create a file.
     1.2 I changed the title in the _pages/year-archive.html file.
+    1.3 Go to _data/navigation.yml file to change the title
 
 2. Go to _pages
     2.1. Change the talkmap.html file to add or remove info in the talks file.

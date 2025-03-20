@@ -11,14 +11,13 @@ main:
 
   - title: "Experience"
     url: /experience/
+  - title: "CV"
+    url: /cv/
+  - title: "DYK?"
+    url: /year-archive/
 # JO: deactivated    
 #  - title: "Portfolio"
 #    url: /portfolio/    
-  - title: "CV"
-    url: /cv/
 # JO: deactivated    
 #  - title: "Guide"
 #    url: /markdown/
-  - title: "Blog"
-    url: /year-archive/
-
