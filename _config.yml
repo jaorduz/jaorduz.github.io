@@ -88,7 +88,7 @@ author:
   employer         : "Earlham College"
 # JO. pubmed instead WoS
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55948440900"
-  WoS              : "https://www.webofscience.com/wos/author/record/B-7459-2018"
+  wos              : "https://www.webofscience.com/wos/author/record/B-7459-2018"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=rHvwRj0AAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   email            : "jaorduz@ieee.org"
   researchgate     :  "https://www.researchgate.net/profile/J_Orduz-Ducuara"
