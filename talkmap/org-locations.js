@@ -1,6 +1,6 @@
 
 var addressPoints = [
-  ["Anaheim, (https://summit.aps.org/)",
+  ["Anaheim, USA (APS)",
     33.802455, 
     117.919843
   ],
