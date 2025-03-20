@@ -10,11 +10,11 @@ _posts
 *.code-workspace
 
 #Folders
-files/
-_experience/
-_includes/
-_pages/
-_portfolio/
-_data/
-_sass
-_drafts
+# files/
+# _experience/
+# _includes/
+# _pages/
+# _portfolio/
+# _data/
+# _sass
+# _drafts
