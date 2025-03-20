@@ -2,14 +2,14 @@
 
 1. To add a post
     1.1. Go to _posts folder and create a file.
-    1.2
+    1.2 I changed the title in the _pages/year-archive.html file.
 
 2. Go to _pages
     2.1. Change the talkmap.html file to add or remove info in the talks file.
     2.2. This map is generated from a Jupyter Notebook file in 
 <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_talks/talkmap.ipynb">/_talks/talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.
     2.3. talkmap.html file contains details about the page with the map. 
-3. Go to talks.html
+3. Go to _pages/talks.html
     3.1. Add or remove the map of talks.
 4. Go to _data/navigation.yml file and
     4.1 Hide/unhide some sections. 
