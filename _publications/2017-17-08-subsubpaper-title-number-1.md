@@ -3,10 +3,8 @@ title: "Student's contributions"
 collection: publications
 type: "subpaper"
 permalink: /publication/2017-17-08-subsubpaper-title-number-1
-excerpt: 'El presente trabajo se desarrolló en la asignatura de 
-seminario de investigación 2017-II (grupo 2805) del programa de 
-Matemáticas Aplicadas y Computación en la FES Acatlán, UNAM.'
-date: 2017-07-01
+excerpt: 'El presente trabajo se desarrolló en la asignatura de seminario de investigación 2017-II (grupo 2805) del programa de Matemáticas Aplicadas y Computación en la FES Acatlán, UNAM.'
+date: 2017-17-08
 venue: 'Online contribution'
 paperurl: 'http://www.inteligencianet.com/moodle/mod/page/view.php?id=1155'
 citation: 'Students in training, Collaborators. (2018). &quot;Several titles.&quot; <i>Online</i>. 1(1).'
