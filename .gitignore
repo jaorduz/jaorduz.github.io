@@ -1,15 +1,12 @@
-
 # Remove posts.
 _posts
 *.md
-
-
 
 # Don't include VSCode generated files
 .vscode
 *.code-workspace
 
-#Folders
+# Folders
 # files/
 # _experience/
 # _includes/
