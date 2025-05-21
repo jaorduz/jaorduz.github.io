@@ -39,6 +39,7 @@ Work experience
   </ul>
 
 
+
 Skills
 ======
 
@@ -71,6 +72,7 @@ Skills
   </tbody>
 </table>
   
+
 Recent Teaching
 ======
   <ul>
@@ -109,11 +111,11 @@ Service and leadership
 * 2017-2022. GCCyC: Group on Quantum and Scientific Computing
 * 2015-2017. [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/){:target="_blank"}.
 * 2017-2022 [Seminar: CTIM](https://sites.google.com/view/ctimfesac){:target="_blank"}. Check our [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA){:target="_blank"}.
-<!-- * 2019. [Python Course](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}. -->
 * 2019. [qmexico](http://qmexico.org/){:target="_blank"} founder and coordinator.
 * 2021. [Washington Quantum Computing](https://www.meetup.com/Washington-Quantum-Computing-Meetup){:target="_blank"} Co-moderator. 
 * 2022. ICML volunteer 
 
-
-
 #### [home](../)
+
+
+<!-- * 2019. [Python Course](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}. -->
