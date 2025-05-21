@@ -21,7 +21,7 @@ td, th {
 <!-- <table style="border:hidden" colspan="3"> -->
   <!-- <tbody>
     <tr> -->
-      <!-- <td> <a href="https://www.dropbox.com/scl/fi/ljmrv8g60ex1i4qzd2zi0/FullCV_JO.pdf?rlkey=v1lwoild1djyif6rvdvxmv7jv&dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td> -->
+  <!-- <td> <a href="https://www.dropbox.com/scl/fi/ljmrv8g60ex1i4qzd2zi0/FullCV_JO.pdf?rlkey=v1lwoild1djyif6rvdvxmv7jv&dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td> -->
 
 For a full and up-to-date list of my publications, please visit my <a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>, and download  <a href="https://jaorduz.github.io/files/CV/JO_CV_FullMay.pdf" target="_blank" rel="noopener noreferrer">CV Full</a> as PDF.
 <!---      
