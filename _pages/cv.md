@@ -17,16 +17,13 @@ td, th {
 
 
 
-# PDF to download<a name="PDFCVInfoJO"></a>
 
-
-
-<table style="border:hidden" colspan="3">
+<!-- <table style="border:hidden" colspan="3">
   <tbody>
     <tr>
-      <td> <a href="https://www.dropbox.com/scl/fi/ljmrv8g60ex1i4qzd2zi0/FullCV_JO.pdf?rlkey=v1lwoild1djyif6rvdvxmv7jv&dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td>
+      <td> <a href="https://www.dropbox.com/scl/fi/ljmrv8g60ex1i4qzd2zi0/FullCV_JO.pdf?rlkey=v1lwoild1djyif6rvdvxmv7jv&dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td> -->
 
-For a full and up-to-date list of my publications, please visit my <a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>.
+For a full and up-to-date list of my publications, please visit my <a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>, and download  <a href="https://jaorduz.github.io/files/CV/JO_CV_FullMay.pdf" target="_blank" rel="noopener noreferrer">CV Full</a> as PDF.
 
 
       
@@ -72,10 +69,19 @@ Work experience
 
 
 
-Recent Teaching
+<!-- Recent Teaching
 ======
 
-* July 2021: Visiting asistant Professor of CS and Maht @ Earlham college
+
+{% include base_path %}
+
+<ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+</ul> -->
+
+<!-- * July 2021: Visiting asistant Professor of CS and Maht @ Earlham college
   * [Baylor University](https://earlham.edu/faculty-staff/javier-orduz/){:target="_blank"}
   * Topics: 
     - Math
@@ -115,10 +121,10 @@ Recent Teaching
 * March 2015: Postdoctoral Researcher
   * [UNAM](https://www.unam.mx/){:target="_blank"}
   * Distance education: Physics laboratory for High education
-  * [CUAED](https://distancia.cuaed.unam.mx/){:target="_blank"}
+  * [CUAED](https://distancia.cuaed.unam.mx/){:target="_blank"} -->
 
 
-#### [home](../)
+<!-- #### [home](../) -->
 
 Skills
 ======
@@ -174,11 +180,14 @@ Recent Talks
 Recent Teaching
 ======
   <ul>
-	{% for post in site.teaching %}
-    	{% include archive-single-cv.html %}
-  	{% endfor %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
   </ul>
   
+<!-- {% for post in site.teaching %}
+    	{% include archive-single-cv.html %}
+  	{% endfor %} -->
 
 Thesis Students
 ======  

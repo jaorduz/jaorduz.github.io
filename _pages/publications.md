@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications and other derivated contributions"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 <!--#### [Up](#PDFCVInfoJO)-->
