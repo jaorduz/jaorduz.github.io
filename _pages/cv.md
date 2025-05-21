@@ -40,35 +40,49 @@ Work experience
 
 
 
-Skills
+Skills and abilities
 ======
 
 <table style="border:hidden" colspan="3">
   <tbody>
-    <tr>
-      <td> High Energy Physics </td>
-      <td> Calculus</td>
-      <td> Python</td>
-      <td> Science and education</td>
+      <tr>
+      <td> Sciences </td>
+      <td> Mathematics</td>
+      <td> Computing</td>
+      <td> Education</td>
     </tr>
     <tr>
-      <td> Quantum Mechanics</td>
+      <td> Algorithms </td>
+      <td> Calculus</td>
       <td> Linear Algebra</td>
+      <td> Statistics</td>
+    </tr>
+    <tr>
+      <td> Python</td>
+      <td> Fortran</td>
       <td> C/C++ and Swift</td>
-      <td> Science education</td>
+      <td> Github/Gitlab</td>
     </tr> 
     <tr>
-      <td> Higgs Physics</td>
-      <td> Geometry</td>
-      <td> IOS X</td>      
-      <td> </td>
-      <td> </td>            
+      <td> Qiskit, PennyLane</td>
+      <td> Machine Learning</td>
+      <td> Quantum Computing</td>
+      <td> Data Science</td>      
+      <td> LaTeX</td>            
     </tr>
      <tr>
-      <td> Standard Model and Beyond</td>
-      <td> </td>
+     <td> HTML, Markdown, Java</td>
+      <td> Windows</td>
+      <td> IOS X</td>
       <td> Linux</td>      
     </tr>    
+     <tr>
+     <td> Leadership</td>
+      <td> Time management</td>
+      <td> Organization</td>
+      <td> Proactive</td>      
+    </tr>        
+
   </tbody>
 </table>
   
