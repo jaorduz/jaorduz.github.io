@@ -2,11 +2,11 @@
 layout: archive
 title: "Publications and other derivated contributions"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 <!--#### [Up](#PDFCVInfoJO)-->
-#### [home](../)
+<!-- #### [home](../) -->
 
 {% if author.googlescholar %}
   <!-- You can also find my articles on 
@@ -21,4 +21,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-#### [home](../)
+<!-- #### [home](../) -->
