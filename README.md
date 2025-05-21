@@ -7,8 +7,7 @@
 
 2. Go to _pages
     2.1. Change the talkmap.html file to add or remove info in the talks file.
-    2.2. This map is generated from a Jupyter Notebook file in 
-<a href="https://github.com/academicpages/academicpages.github.io/blob/master/_talks/talkmap.ipynb">/_talks/talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.
+    2.2. This map is generated from a Jupyter Notebook file in  <a href="https://github.com/academicpages/academicpages.github.io/blob/master/_talks/talkmap.ipynb">/_talks/talkmap.ipynb</a>, which means the location fields in the .md files in _talks/.
     2.3. talkmap.html file contains details about the page with the map. 
 3. Go to _pages/talks.html
     3.1. Add or remove the map of talks.
@@ -22,7 +21,7 @@
 
 0) Go to markdown_generator, and use run the NB: publications.ipynb 
 1) populate the publications.tsv file with the information details. 
-
+2) I put the bib inputs in two files proceeding.bib and pubs.bib.
 
 
 
