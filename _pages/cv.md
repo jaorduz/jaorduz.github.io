@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
 
@@ -31,9 +32,8 @@ Education
 Work experience
 ======
 
-
   <ul>
-	{% for post in site.experience %}
+	{% for post in site.experience reversed %}
     	{% include archive-single-cv.html %}
   	{% endfor %}
   </ul>
@@ -67,11 +67,10 @@ Skills and abilities
       <td> Qiskit, PennyLane</td>
       <td> Machine Learning</td>
       <td> Quantum Computing</td>
-      <td> Data Science</td>      
-      <td> LaTeX</td>            
+      <td> Data Science</td>     
     </tr>
      <tr>
-     <td> HTML, Markdown, Java</td>
+     <td> HTML, Markdown, Java, LaTeX</td>
       <td> Windows</td>
       <td> IOS X</td>
       <td> Linux</td>      
@@ -128,8 +127,3 @@ Service and leadership
 * 2019. [qmexico](http://qmexico.org/){:target="_blank"} founder and coordinator.
 * 2021. [Washington Quantum Computing](https://www.meetup.com/Washington-Quantum-Computing-Meetup){:target="_blank"} Co-moderator. 
 * 2022. ICML volunteer 
-
-#### [home](../)
-
-
-<!-- * 2019. [Python Course](https://sites.google.com/view/cursosyeyecoa/p%C3%A1gina-principal){:target="_blank"}. -->

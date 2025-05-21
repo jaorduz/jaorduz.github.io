@@ -8,13 +8,13 @@ venue: "Computer Science and Math Department"
 location: "Waco, USA"
 ---
 
-#### [home](../)
 
 
-* July 2022: Instructor
+* July 2022-2025: Instructor
   * [Earlham College](https://www.earlham.edu/){:target="_blank"}
   * Courses: 
-    - Aritificial Intelligence and Machine Learning (CS 365)
+    - Multivariate Calculus (CS 350)
+    - Artificial Intelligence and Machine Learning (CS 365)
     - Elementary Statistics (Math 120)
     - Statistics Modeling for Data Science (DS 401)
     - Math Toolkit (Math 195)
@@ -23,8 +23,6 @@ location: "Waco, USA"
     - Physics I (Phys 120)
     - Physics II (Phys 230)
 
-
-#### [home](../)
 
 
 ---

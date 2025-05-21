@@ -8,8 +8,6 @@ venue: "DGAPA-UNAM"
 location: "Mexico City, Mex"
 ---
 
-#### [home](../)
-
 
 * March 2016: Postdoc
   * [DGAPA-UNAM](https://dgapa.unam.mx/){:target="_blank"}
@@ -23,7 +21,6 @@ location: "Mexico City, Mex"
 Note: I published papers, taught courses, and participated in differente scientific events.
 
 
-#### [home](../)
 
 
 ---

@@ -8,17 +8,14 @@ venue: "Computer Science Department"
 location: "Waco, USA"
 ---
 
-#### [home](../)
 
 
-* January 2021: Instructor (online)
+* January 2021-2025: Instructor (online)
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
   * Course: 
     - Introduction to Computation Theory (5310)
 
 
-
-#### [home](../)
 
 
 ---

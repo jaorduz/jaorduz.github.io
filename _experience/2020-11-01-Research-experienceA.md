@@ -8,8 +8,6 @@ venue: "Computer Science Department"
 location: "Waco, USA"
 ---
 
-#### [home](../)
-
 
 * November 2020: Research Scholar
   * [Baylor University](https://www.baylor.edu/){:target="_blank"}
@@ -21,8 +19,6 @@ location: "Waco, USA"
 
 Note: I published papers, taught courses, and participated in differente scientific events.
 
-
-#### [home](../)
 
 
 ---
