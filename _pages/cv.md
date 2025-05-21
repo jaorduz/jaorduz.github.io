@@ -199,8 +199,9 @@ Thesis Students
 
 Honors
 ======
-[1] SNI 1, Mexican goverment recognition as researcher.
+[1] SNI 1, Mexican goverment recognition as researcher. Conacyt, Mexico
 
+[2] APS-Simon Travel and Professional Development Award. APS, United States of America.
 
 
 <!-- Funding

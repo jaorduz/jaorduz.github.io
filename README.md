@@ -15,7 +15,7 @@
     4.1 Hide/unhide some sections. 
         - Keep the indentation.
 
-
+5. I added my CV in [files/CV/](https://jaorduz.github.io/files/CV/JO_CV_FullMay.pdf)
 
 # For publications
 
