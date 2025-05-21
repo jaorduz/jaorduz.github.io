@@ -9,10 +9,10 @@ author_profile: true
 #### [home](../)
 
 {% if author.googlescholar %}
-  You can also find my articles on 
+  <!-- You can also find my articles on 
   <u><a href="{{author.googlescholar}}">
   my Google Scholar profile
-  </a>.</u>
+  </a>.</u> -->
 {% endif %}
 
 {% include base_path %}

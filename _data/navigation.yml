@@ -13,8 +13,10 @@ main:
     url: /experience/
   - title: "CV"
     url: /cv/
-  - title: "Posts"
-    url: /year-archive/
+
+  # - title: "Posts"
+  #   url: /year-archive/
+
 # JO: deactivated    
 #  - title: "Portfolio"
 #    url: /portfolio/    
