@@ -18,15 +18,12 @@ td, th {
 
 
 
-<!-- <table style="border:hidden" colspan="3">
-  <tbody>
-    <tr>
-      <td> <a href="https://www.dropbox.com/scl/fi/ljmrv8g60ex1i4qzd2zi0/FullCV_JO.pdf?rlkey=v1lwoild1djyif6rvdvxmv7jv&dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td> -->
+<!-- <table style="border:hidden" colspan="3"> -->
+  <!-- <tbody>
+    <tr> -->
+      <!-- <td> <a href="https://www.dropbox.com/scl/fi/ljmrv8g60ex1i4qzd2zi0/FullCV_JO.pdf?rlkey=v1lwoild1djyif6rvdvxmv7jv&dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td> -->
 
 For a full and up-to-date list of my publications, please visit my <a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>, and download  <a href="https://jaorduz.github.io/files/CV/JO_CV_FullMay.pdf" target="_blank" rel="noopener noreferrer">CV Full</a> as PDF.
-
-
-      
 <!---      
 https://tinyurl.com/jaorduzCV
 5
@@ -37,9 +34,9 @@ https://tinyurl.com/jaorduzCV
       <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
       <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
 --->      
-    </tr>
-  </tbody>
-</table>
+<!-- </tr>
+  </tbody> -->
+<!-- </table> -->
 
 
 
@@ -189,7 +186,7 @@ Recent Teaching
     	{% include archive-single-cv.html %}
   	{% endfor %} -->
 
-Thesis Students
+Mentoring and supervising activities
 ======  
 
 
@@ -200,7 +197,6 @@ Thesis Students
 Honors
 ======
 [1] SNI 1, Mexican goverment recognition as researcher. Conacyt, Mexico
-
 [2] APS-Simon Travel and Professional Development Award. APS, United States of America.
 
 

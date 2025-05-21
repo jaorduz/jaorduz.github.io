@@ -23,6 +23,12 @@
 1) populate the publications.tsv file with the information details. 
 2) I put the bib inputs in two files proceeding.bib and pubs.bib.
 
+# For talks:
+
+0) Go to markdown_generator, and use run the NB: talks.ipynb 
+1) include talks in the talks.tsv file
+2) Run the talks.ipynb file
+
 
 
 <!-- 4. Go to _includes/sidebar.html to get more details about the sidebar figures, and more. -->
