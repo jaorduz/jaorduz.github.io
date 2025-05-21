@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Javier Orduz is a dedicated educator and researcher, currently serving as a Visiting Assistant Professor at Earlham College and an Instructor at Baylor University. With a deep love for mathematics, physics, and computing, he has spent years contributing to research, teaching, and mentoring the next generation of scientists. His journey has taken him from being a Research Scholar and Computer Science Instructor at Baylor University to spending five impactful years as a Postdoctoral Researcher and Associate Professor at the Universidad Nacional Autónoma de México (UNAM).
+**Dr. Javier Orduz** is a passionate educator, researcher, and mentor with a deep commitment to science and community. He currently serves as a Visiting Assistant Professor at *Earlham College* and an Instructor at *Baylor University*, where he blends his love for mathematics, physics, and computing to inspire the next generation of scientists and engineers.
 
-Outside of academia, Dr. Orduz is a passionate advocate for quantum computing. As the coordinator of [QMexico](http://qmexico.org/), he works hard to bring quantum computing education and research to communities across Latin America. He also leads the [Quaker-ECE](https://quaker-ece.cs.earlham.edu/) initiative at Earlham College, where he encourages students to explore the exciting world of quantum computing.  
+His academic journey spans several countries and institutions—starting as a Research Scholar and Computer Science Instructor at Baylor, and later spending five enriching years as a Postdoctoral Researcher and Associate Professor at *Universidad Nacional Autónoma de México (UNAM)*. These experiences shaped his interdisciplinary approach to both research and education.
 
-As a Research Scientist in AI, Dr. Orduz focuses on quantum machine learning, creating innovative algorithms that push the boundaries of what’s possible. He’s also deeply involved in mentoring through the [LatinX AI](https://www.latinxinai.org/) community, where he supports and empowers underrepresented voices in artificial intelligence.  
+Beyond the classroom, Dr. Orduz is a strong advocate for democratizing access to quantum computing. As the coordinator of [QMexico](http://qmexico.org/), he champions education and research opportunities across Latin America. He also leads [Quaker-ECE](https://quaker-ece.cs.earlham.edu/) at Earlham, encouraging hands-on exploration of quantum technologies.
 
-His work spans quantum computing, machine learning, and high-energy physics, and his growing influence is reflected in his research and active participation in global scientific events. Through it all, he’s remained committed to inspiring underrepresented groups and advancing Latin America’s role in science and technology.  
+His current research bridges *quantum computing*, *machine learning*, and *high-energy physics*, with a special focus on quantum machine learning algorithms that aim to tackle real-world challenges. As a member of the [LatinX in AI](https://www.latinxinai.org/) community, he actively mentors underrepresented voices in technology, helping foster equity in STEM fields.
+
+Through his work, Dr. Orduz continues to build inclusive scientific communities, create innovative technologies, and promote Latin America's leadership in global science and innovation.
+
 
 
 <!--
