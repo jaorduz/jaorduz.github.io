@@ -9,33 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
-
-<!-- <table style="border:hidden" colspan="3"> -->
-  <!-- <tbody>
-    <tr> -->
-  <!-- <td> <a href="https://www.dropbox.com/scl/fi/ljmrv8g60ex1i4qzd2zi0/FullCV_JO.pdf?rlkey=v1lwoild1djyif6rvdvxmv7jv&dl=0" target="_blank" rel="noopener noreferrer">CV Full</a></td> -->
 
 For a full and up-to-date list of my publications, please visit my <a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>, and download  <a href="https://jaorduz.github.io/files/CV/JO_CV_FullMay.pdf" target="_blank" rel="noopener noreferrer">CV Full</a> as PDF.
-<!---      
-https://tinyurl.com/jaorduzCV
-5
-5
-5
-5
-<td> <a href="https://tinyurl.com/yeg3sssd" target="_blank" rel="noopener noreferrer">List of Publication</a></td>
-      <td> <a href="https://tinyurl.com/ydpjzefq" target="_blank" rel="noopener noreferrer">Research Statement</a></td>
-      <td> <a href="https://tinyurl.com/yecsx4hn" target="_blank" rel="noopener noreferrer">Teaching Statement</a></td>                 
---->      
-<!-- </tr>
-  </tbody> -->
-<!-- </table> -->
 
 
 
@@ -63,64 +38,6 @@ Work experience
   	{% endfor %}
   </ul>
 
-
-
-<!-- Recent Teaching
-======
-
-
-{% include base_path %}
-
-<ul>
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-</ul> -->
-
-<!-- * July 2021: Visiting asistant Professor of CS and Maht @ Earlham college
-  * [Baylor University](https://earlham.edu/faculty-staff/javier-orduz/){:target="_blank"}
-  * Topics: 
-    - Math
-    - Computing
-    - Physics
-    - Data Sciece and Cybersecurity
-
-
-* July 2021: Adjunct Professor of Computer Science @ Baylor University
-  * [Baylor University](https://www.baylor.edu/){:target="_blank"}
-  * Topics: 
-    - Quantum Computing
-    - Computing
-
-
-* January 2021: Research Scholar
-  * [Baylor University](https://www.baylor.edu/){:target="_blank"}
-  * Topics: 
-    - Quantum Computing
-    - Quantum Machine Learning
-    - Applications and theoretical
-
-* February 2017-2020: Tenure Track
-  * [FESAc-UNAM](https://www.acatlan.unam.mx/){:target="_blank"}
-  * Projects: 
-    - Seminario CTIM
-    - yeyecoa project
-    - Seminario CTIM Proceedings
-    - GCCyC
-
-
-* March 2016: Postdoctoral Researcher
-  * [UNAM](https://www.cuautitlan.unam.mx/#gsc.tab=0){:target="_blank"}
-  * HEP: Phenonomenology on THDM at loop level
-  * Supervisor: Ricardo Gaitan
-
-* March 2015: Postdoctoral Researcher
-  * [UNAM](https://www.unam.mx/){:target="_blank"}
-  * Distance education: Physics laboratory for High education
-  * [CUAED](https://distancia.cuaed.unam.mx/){:target="_blank"} -->
-
-
-<!-- #### [home](../) -->
 
 Skills
 ======
@@ -153,25 +70,6 @@ Skills
     </tr>    
   </tbody>
 </table>
-
-
-  
- 
-Publications and other related contributions
-======
-  <ul>
-  	{% for post in site.publications %}
-    	{% include archive-single-cv.html %}
-  	{% endfor %}
-  </ul>
-  
-Recent Talks
-======
-  <ul>	
-  	{% for post in site.talks %}
-    	{% include archive-single-talk-cv.html %}
-  	{% endfor %}
-  </ul>
   
 Recent Teaching
 ======
@@ -179,11 +77,7 @@ Recent Teaching
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-  </ul>
-  
-<!-- {% for post in site.teaching %}
-    	{% include archive-single-cv.html %}
-  	{% endfor %} -->
+  </ul>  
 
 Mentoring and supervising activities
 ======  
@@ -221,5 +115,5 @@ Service and leadership
 * 2022. ICML volunteer 
 
 
-#### [Up](#PDFCVInfoJO)
+
 #### [home](../)
