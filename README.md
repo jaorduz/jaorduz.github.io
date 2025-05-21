@@ -16,6 +16,16 @@
     4.1 Hide/unhide some sections. 
         - Keep the indentation.
 
+
+
+# For publications
+
+0) Go to markdown_generator, and use run the NB: publications.ipynb 
+1) populate the publications.tsv file with the information details. 
+
+
+
+
 <!-- 4. Go to _includes/sidebar.html to get more details about the sidebar figures, and more. -->
 
 <!-- 5. Go to _sass/
