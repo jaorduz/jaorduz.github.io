@@ -1,6 +1,14 @@
 
 var addressPoints = [
-  ["Anaheim, USA (APS)",
+["Paris, France (France Quantum Conference)",
+  48.83346054300767, 
+  2.3718322417021596
+],
+  ["Padova, Italy (University of Padova)",
+    45.40891807742582, 
+    11.882669908502704
+  ],
+  ["Anaheim, USA (APS Global Physics Summit)",
     33.802455, 
     117.919843
   ],
