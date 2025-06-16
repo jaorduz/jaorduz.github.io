@@ -9,8 +9,8 @@ var addressPoints = [
     11.882669908502704
   ],
   ["Anaheim, USA (APS Global Physics Summit)",
-    33.802455, 
-    117.919843
+    33.80150050031274, 
+    -117.92085529486332
   ],
   [
     "Oxford, USA (Miami University)",

@@ -11,6 +11,8 @@
     2.3. talkmap.html file contains details about the page with the map. 
 3. Go to _pages/talks.html
     3.1. Add or remove the map of talks.
+    3.2. Go to org-locations.js and add the coordinates.
+    3.3 Go to _pages/talks.html and _pages/talkmap.html and edit the files. 
 4. Go to _data/navigation.yml file and
     4.1 Hide/unhide some sections. 
         - Keep the indentation.
