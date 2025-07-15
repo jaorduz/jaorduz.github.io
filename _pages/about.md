@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Dr. Javier Orduz** is a passionate educator, researcher, and mentor with a deep commitment to science and community. He currently serves as a Visiting Assistant Professor at *Earlham College* and an Instructor at *Baylor University*, where he blends his love for mathematics, physics, and computing to inspire the next generation of scientists and engineers.
+**Dr. Javier Orduz** is a passionate educator, researcher, and mentor with a deep commitment to science and community. He has served as Visiting Assistant Professor at *Earlham College* and an Instructor at *Baylor University*, where he blends his love for mathematics, physics, and computing to inspire the next generation of scientists and engineers.
 
 His academic journey spans several countries and institutions—starting as a Research Scholar and Computer Science Instructor at Baylor, and later spending five enriching years as a Postdoctoral Researcher and Associate Professor at *Universidad Nacional Autónoma de México (UNAM)*. These experiences shaped his interdisciplinary approach to both research and education.
 
