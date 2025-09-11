@@ -10,9 +10,9 @@ redirect_from:
 
 Dr. Javier Orduz is an educator, researcher, and mentor passionate about making science and technology more accessible. He has taught at Earlham College and Baylor University, where he blends physics, math, and computing to inspire future innovators.
 
-His international academic path—from [UNAM](https://www.unam.mx/) to [Baylor](https://www.baylor.edu/)—shaped his interdisciplinary approach. He leads [QMexico](http://qmexico.org/) and [Quaker-ECE](https://quaker-ece.cs.earlham.edu/) to expand quantum education, and recently founded [qaldas](qaldas.com), focused on research, software development, and consulting in emerging technologies.
+His international academic path—from [UNAM](https://www.unam.mx/){:target="_blank"} to [Baylor](https://www.baylor.edu/){:target="_blank"}—shaped his interdisciplinary approach. He leads [QMexico](http://qmexico.org/){:target="_blank"} and [Quaker-ECE](https://quaker-ece.cs.earlham.edu/){:target="_blank"} to expand quantum education, and recently founded [qaldas](http://qaldas.com){:target="_blank"}, focused on research, software development, and consulting in emerging technologies.
 
-His work spans quantum computing, data science, cryptography, machine learning, and physics, with active mentorship through [LatinX in AI](https://www.latinxinai.org/) community and other underrepresented voices in technology, helping foster equity in STEM fields.
+His work spans quantum computing, data science, cryptography, machine learning, and physics, with active mentorship through [LatinX in AI](https://www.latinxinai.org/){:target="_blank"} community and other underrepresented voices in technology, helping foster equity in STEM fields.
 
 
 Through his work, Dr. Orduz continues to build inclusive scientific communities, create innovative technologies, and promote Latin America's leadership in global science and innovation.
