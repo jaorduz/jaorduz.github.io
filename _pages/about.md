@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Dr. Javier Orduz** is a passionate educator, researcher, and mentor with a deep commitment to science and community. He has served as Visiting Assistant Professor at *Earlham College* and an Instructor at *Baylor University*, where he blends his love for mathematics, physics, and computing to inspire the next generation of scientists and engineers.
+Dr. Javier Orduz is an educator, researcher, and mentor passionate about making science and technology more accessible. He has taught at Earlham College and Baylor University, where he blends physics, math, and computing to inspire future innovators.
+
+His international academic path—from [UNAM](https://www.unam.mx/) to [Baylor](https://www.baylor.edu/)—shaped his interdisciplinary approach. He leads [QMexico](http://qmexico.org/) and [Quaker-ECE](https://quaker-ece.cs.earlham.edu/) to expand quantum education, and recently founded [qaldas](qaldas.com), focused on research, software development, and consulting in emerging technologies.
+
+His work spans quantum computing, data science, cryptography, machine learning, and physics, with active mentorship through [LatinX in AI](https://www.latinxinai.org/) community and other underrepresented voices in technology, helping foster equity in STEM fields.
+
+
+Through his work, Dr. Orduz continues to build inclusive scientific communities, create innovative technologies, and promote Latin America's leadership in global science and innovation.
+
+<!-- **Dr. Javier Orduz** is a passionate educator, researcher, and mentor with a deep commitment to science and community. He has served as Visiting Assistant Professor at *Earlham College* and an Instructor at *Baylor University*, where he blends his love for mathematics, physics, and computing to inspire the next generation of scientists and engineers.
 
 His academic journey spans several countries and institutions—starting as a Research Scholar and Computer Science Instructor at Baylor, and later spending five enriching years as a Postdoctoral Researcher and Associate Professor at *Universidad Nacional Autónoma de México (UNAM)*. These experiences shaped his interdisciplinary approach to both research and education.
 
@@ -16,7 +25,7 @@ Beyond the classroom, Dr. Orduz is a strong advocate for democratizing access to
 
 His current research bridges *quantum computing*, *machine learning*, and *high-energy physics*, with a special focus on quantum machine learning algorithms that aim to tackle real-world challenges. As a member of the [LatinX in AI](https://www.latinxinai.org/) community, he actively mentors underrepresented voices in technology, helping foster equity in STEM fields.
 
-Through his work, Dr. Orduz continues to build inclusive scientific communities, create innovative technologies, and promote Latin America's leadership in global science and innovation.
+Through his work, Dr. Orduz continues to build inclusive scientific communities, create innovative technologies, and promote Latin America's leadership in global science and innovation. -->
 
 
 

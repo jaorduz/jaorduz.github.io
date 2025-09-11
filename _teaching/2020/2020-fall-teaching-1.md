@@ -1,5 +1,5 @@
 ---
-title: "Basic and advance programming"
+title: "Basic and advanced programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020/teaching-1
