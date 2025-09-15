@@ -286,7 +286,7 @@ plugins:
   - jekyll-feed
   # - jekyll-redirect-from
 ## mimic GitHub Pages with --safe
-# whitelist:
+# whitelist: # JO: deprecated. The following plugins are not supported by GitHub Pages/Jekyll
 #   - jekyll-paginate
 #   - jekyll-sitemap
 #   - jekyll-gist
