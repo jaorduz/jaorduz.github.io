@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://jaorduz.github.io 
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://jaorduz.github.io" #"jaorduz/jaorduz.github.io"
+repository               : "jaorduz/jaorduz.github.io" #"https://jaorduz.github.io"
 # JO: academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -278,20 +278,20 @@ timezone: America/Fort_Wayne
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones, America/Mexico_City, America/Regina
 
 
-# Plugins
+# Plugins. JO
 plugins:
   - jekyll-paginate
-#  - jekyll-sitemap
-  - jekyll-gist
-#  - jekyll-feed
-  - jekyll-redirect-from
-## mimic GitHub Pages with --safe
-whitelist:
-#  - jekyll-paginate
   - jekyll-sitemap
-#  - jekyll-gist
+  - jekyll-gist
   - jekyll-feed
-  - jemoji
+  # - jekyll-redirect-from
+## mimic GitHub Pages with --safe
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+  # - jemoji
 
 
 # Archives
