@@ -1,6 +1,6 @@
 # Remove posts.
 _posts
-*.md
+#*.md
 
 # Don't include VSCode generated files
 .vscode
