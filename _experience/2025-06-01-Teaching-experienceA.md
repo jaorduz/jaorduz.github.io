@@ -1,5 +1,5 @@
 ---
-title: "Coordinator"
+title: "CEO"
 collection: experience
 type: "Teaching"
 permalink: /experience/2025-06-01-Teaching-experienceA
