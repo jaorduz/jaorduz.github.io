@@ -10,13 +10,13 @@ location: "Bogota, Col"
 
 
 
-* July 2025-: Coodinator
-  * [qaldas](https://qladas.com/){:target="_blank"}
-  * Activities: 
-    - Research
+* July 2025-: CEO
+  * [qaldas](https://qaldas.com/){:target="_blank"}
+  * Activities:
     - Consulting
-    - Problem-solution
-
+    - Research
+    - Education
+    - Software & Hardware
 
 
 ---
