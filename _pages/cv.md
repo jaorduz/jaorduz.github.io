@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-For a full and up-to-date list of my publications, please visit my <a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>, and download  <a href="https://jaorduz.github.io/files/CV/JO_CV_FullMay.pdf" target="_blank" rel="noopener noreferrer">CV Full</a> as PDF.
+For a full and up-to-date list of my publications, please visit my <a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>, and download  <a href="https://jaorduz.github.io/files/CV/JO_CV_FullNov.pdf" target="_blank" rel="noopener noreferrer">CV Full</a> as PDF.
 
 
 
