@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Javier Orduz"
-  avatar           : "assets/images/profile/profile.png"
+  avatar           : "profile.png"
   bio              : "Computational Physicist | Quantum & Machine Learning Researcher | Bridging Theory, Data Science, and Emerging Technologies."#"QML Scientist. IEEE and APS member."#Visit. Asst. Prof. at EC. Math and CS Dept. QML Scientist. IEEE and APS member."
   location         : "COL-MEX-USA"
   employer         : "UNAM, QMexico and qaldas" #Earlham College"
