@@ -1,131 +1,112 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-
 {% include base_path %}
 
+For a complete and continuously updated list of my publications, please visit my  
+<a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer"><strong>Google Scholar profile</strong></a>.
 
-For a full and up-to-date list of my publications, please visit my <a href="https://scholar.google.com/citations?&user=rHvwRj0AAAAJ&sortby=pubdate" target="_blank" rel="noopener noreferrer">Google Scholar profile</a>, and download  <a href="https://jaorduz.github.io/files/CV/JO_CV_FullNov.pdf" target="_blank" rel="noopener noreferrer">CV Full</a> as PDF.
+You may also download my full CV here:
 
+<a href="/files/cv/javier-orduz-cv.pdf" target="_blank">
+Download Full CV (PDF)
+</a>
 
+---
 
-Education
-======
+## Education
 
-<table style="border:hidden;">
-  <tbody>
-    <tr>
-      <td> Doctor of Sciences (Applied Physics) <a href="https://www.fcfm.buap.mx/" target="_blank" rel="noopener noreferrer">BUAP</a>, 2014.</td>
-      <td> Master of Sciences (Applied Physics) <a href="https://www.fcfm.buap.mx/" target="_blank" rel="noopener noreferrer">BUAP</a>, 2010.</td>
-      <td> Bachelor's degree Physicist <a href="http://www.uptc.edu.co/" target="_blank" rel="noopener noreferrer">UPTC</a>, 2008.</td>
-    </tr>
-  </tbody>
-</table>
+**Doctor of Sciences (Applied Physics)**  
+<a href="https://www.fcfm.buap.mx/" target="_blank">Benemérita Universidad Autónoma de Puebla (BUAP)</a>, 2014
 
+**Master of Sciences (Applied Physics)**  
+<a href="https://www.fcfm.buap.mx/" target="_blank">Benemérita Universidad Autónoma de Puebla (BUAP)</a>, 2010
 
-Work experience
-======
-
-  <ul>
-	{% for post in site.experience reversed %}
-    	{% include archive-single-cv.html %}
-  	{% endfor %}
-  </ul>
+**Bachelor's Degree in Physics**  
+<a href="http://www.uptc.edu.co/" target="_blank">Universidad Pedagógica y Tecnológica de Colombia (UPTC)</a>, 2008
 
 
+---
 
-Skills and abilities
-======
+## Academic and Professional Experience
 
-<table style="border:hidden" colspan="3">
-  <tbody>
-      <tr>
-      <td> Sciences </td>
-      <td> Mathematics</td>
-      <td> Computing</td>
-      <td> Education</td>
-    </tr>
-    <tr>
-      <td> Algorithms </td>
-      <td> Calculus</td>
-      <td> Linear Algebra</td>
-      <td> Statistics</td>
-    </tr>
-    <tr>
-      <td> Python</td>
-      <td> Fortran</td>
-      <td> C/C++ and Swift</td>
-      <td> Github/Gitlab</td>
-    </tr> 
-    <tr>
-      <td> Qiskit, PennyLane</td>
-      <td> Machine Learning</td>
-      <td> Quantum Computing</td>
-      <td> Data Science</td>     
-    </tr>
-     <tr>
-     <td> HTML, Markdown, Java, LaTeX</td>
-      <td> Windows</td>
-      <td> IOS X</td>
-      <td> Linux</td>      
-    </tr>    
-     <tr>
-     <td> Leadership</td>
-      <td> Time management</td>
-      <td> Organization</td>
-      <td> Proactive</td>      
-    </tr>        
-
-  </tbody>
-</table>
-  
-
-Recent Teaching
-======
-  <ul>
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<ul>
+{% for post in site.experience reversed %}
+{% include archive-single-cv.html %}
 {% endfor %}
-  </ul>  
-
-Mentoring and supervising activities
-======  
+</ul>
 
 
-[1] Angelica Perez, Master in education (Mathematics), 2020. Mex.
-[2] Aaron Rodriguez, Bachelor in Applied Mathematics, 2022. Mex.
-  
+---
 
-Honors
-======
-[1] SNI 1, Mexican goverment recognition as researcher. Conacyt, Mexico
-[2] APS-Simon Travel and Professional Development Award. APS, United States of America.
+## Technical Skills
+
+| Scientific Computing | Mathematics | Data & AI | Software & Systems |
+|---------------------|-------------|-----------|-------------------|
+| Algorithms | Calculus | Machine Learning | Python |
+| Quantum Computing | Linear Algebra | Data Science | C / C++ |
+| Quantum Machine Learning | Statistics | AI Applications | Swift |
+| Scientific Computing | Optimization | Statistical Modeling | Git / GitHub |
+| Quantum Programming | Numerical Methods | Data Analysis | Linux / macOS / Windows |
+| Qiskit | Mathematical Modeling | Scientific Visualization | LaTeX / Markdown |
 
 
-<!-- Funding
-======
+---
+## Research Focus
 
-**I am writting this section**  -->
-  
-Service and leadership
-======
+My research lies at the intersection of:
 
-* 2024-. Quaker-ECE. [Principal Investigator](https://quaker-ece.cs.earlham.edu/){:target="_blank"}.
-* 2024-. Quantum computing: A gentle introduction for Liberal Arts Institutions. [Co-author](https://qaldas.github.io/quaker-ece/){:target="_blank"}. 
-* 2024-. LatinX Mentor
-* 2023-. [APS](https://www.aps.org/){:target="_blank"}. Member
-* 2022-. [IEEE](https://www.ieee.org/){:target="_blank"}. Member.
-* 2022-2023. [BaylorAI](https://baylor.ai/){:target="_blank"}: [Dr. Rivas](https://rivas.ai/){:target="_blank"} led this Group which is about Artificial Intelligence, Quantum and Scientific Computing.
-* 2017-2022. GCCyC: Group on Quantum and Scientific Computing
-* 2015-2017. [Yeyecoa Project](http://www.yeyecoa.acatlan.unam.mx/){:target="_blank"}.
-* 2017-2022 [Seminar: CTIM](https://sites.google.com/view/seminario-ctim/){:target="_blank"}. Check our [youtube channel](https://www.youtube.com/c/CTIMFESAcatl%C3%A1n/streams){:target="_blank"}.
-* 2018-2021 [Quanta Calaverita](https://sites.google.com/view/seminario-ctim/quanta-calaverita){:target="_blank"}.
-* 2019 [qmexico](http://qmexico.org/){:target="_blank"} founder and coordinator.
-* 2021 [Washington Quantum Computing](https://www.meetup.com/Washington-Quantum-Computing-Meetup){:target="_blank"} Co-moderator. 
-* 2022 ICML volunteer 
+- Quantum Computing and Quantum Algorithms
+- Quantum Machine Learning
+- Machine Learning and Data Science
+- Quantum Cryptography and Secure AI
+- Hybrid Quantum–Classical Computational Systems
+
+---
+
+
+## Recent Teaching
+
+<ul>
+{% for post in site.teaching reversed %}
+{% include archive-single.html %}
+{% endfor %}
+</ul>
+
+
+---
+
+## Mentoring and Supervision
+
+- **Angelica Perez**, Master's in Education (Mathematics), Mexico, 2020  
+- **Aaron Rodriguez**, Bachelor's in Applied Mathematics, Mexico, 2022
+
+
+---
+
+## Honors and Recognitions
+
+- **National Researcher Level I (SNI)** – National System of Researchers, Mexico (CONACYT)  
+- **APS-Simons Travel and Professional Development Award** – American Physical Society, USA
+
+
+---
+
+## Service and Leadership
+
+- **Principal Investigator**, [Quaker-ECE](https://quaker-ece.cs.earlham.edu/){:target="_blank"} – Quantum education initiative (2024–present)
+- **Co-author**, *Quantum Computing: A Gentle Introduction for Liberal Arts Institutions* (2024–present)
+- **LatinX in AI Mentor**, supporting emerging researchers in AI
+- **Member**, [American Physical Society (APS)](https://www.aps.org/){:target="_blank"}
+- **Member**, [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/){:target="_blank"}
+- **Research Collaborator**, [BaylorAI](https://baylor.ai/){:target="_blank"} – AI, Quantum Computing, and Scientific Computing research group
+- **Founder**, [QMexico](http://qmexico.org/){:target="_blank"} – Network promoting quantum science in Latin America
+- **Organizer**, [Seminar CTIM](https://sites.google.com/view/seminario-ctim/){:target="_blank"} – interdisciplinary seminar in science and technology
+- **Co-organizer**, *Quanta Calaverita* outreach and education initiative
+- **Volunteer**, International Conference on Machine Learning (ICML)
