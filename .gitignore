@@ -1,17 +1,47 @@
-# Remove posts.
-_posts
-#*.md
+# macOS
+.DS_Store
 
-# Don't include VSCode generated files
-.vscode
-*.code-workspace
+# Jekyll / Bundler
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
 
-# Folders
-# files/
-# _experience/
-# _includes/
-# _pages/
-# _portfolio/
-# _data/
-# _sass
-# _drafts
+# Logs
+*.log
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python helpers (if you use local scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Node (only if you use node tooling)
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Personal notes / drafts not for publishing
+notes-private/
+drafts-private/
+archive-local/
+
+# Secrets
+.env
+.env.*
+secrets.yml
