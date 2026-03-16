@@ -99,9 +99,9 @@ My research lies at the intersection of:
 ---
 
 ## Service and Leadership
-
+- **qaldas**, [qaldas](qaldas.com){:target="_blank"} – Quantum computing tech in America.
 - **Principal Investigator**, [Quaker-ECE](https://quaker-ece.cs.earlham.edu/){:target="_blank"} – Quantum education initiative (2024–present)
-- **Co-author**, *Quantum Computing: A Gentle Introduction for Liberal Arts Institutions* (2024–present)
+- **Co-author**, *Quantum Computing: A Gentle Introduction for Liberal Arts Institutions* [WebBook](https://qaldas.github.io/quaker-ece){:target="_blank"}(2024–present)
 - **LatinX in AI Mentor**, supporting emerging researchers in AI
 - **Member**, [American Physical Society (APS)](https://www.aps.org/){:target="_blank"}
 - **Member**, [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/){:target="_blank"}
