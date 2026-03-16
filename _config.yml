@@ -286,8 +286,8 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # JO: 
-timezone: America/Fort_Wayne
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones, America/Mexico_City, America/Regina
+timezone: America/Mexico_City
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones, America/Mexico_City, America/Regina, America/Fort_Wayne
 
 
 # Plugins. JO

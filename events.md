@@ -1,7 +1,13 @@
 ---
-layout: page
-title: "Events"
-permalink: /events/
+title: "Research Accelerator Bootcamp"
+collection: events
+type: "One day event"
+permalink: /events/rab2026
+author_profile: true
+date: 2026-06-01
+venue: "FESAc-UNAM-QMexico-Qaldas"
+location: "Mexico"
+excerpt: "RAB 2026 for experience and non-experience researchers"
 ---
 
 # Events
