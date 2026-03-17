@@ -1,4 +1,54 @@
 ---
+layout: single
+title: "Events"
+permalink: /events/
+author_profile: true
+---
+
+# Events
+
+## Organizing
+
+{% for event in site.events %}
+  {% if event.type == "Organizing" %}
+
+### [{{ event.title }}]({{ event.url }})
+
+{{ event.excerpt }}
+
+- **Date:** {{ event.date | date: "%B %Y" }}
+- **Venue:** {{ event.venue }}
+
+  {% endif %}
+{% endfor %}
+
+
+## Participating
+
+{% for event in site.events %}
+  {% if event.type == "Participating" %}
+
+### [{{ event.title }}]({{ event.url }})
+
+{{ event.excerpt }}
+
+  {% endif %}
+{% endfor %}
+
+
+## Past Events
+
+{% for event in site.events %}
+  {% if event.type == "Past" %}
+
+### [{{ event.title }}]({{ event.url }})
+
+{{ event.excerpt }}
+
+  {% endif %}
+{% endfor %}
+
+<!-- ---
 layout: page
 title: "Events"
 permalink: /events/
@@ -154,4 +204,4 @@ View Event
 {% endif %}
 {% endfor %}
 
-</div>
+</div> -->
