@@ -45,3 +45,6 @@ archive-local/
 .env
 .env.*
 secrets.yml
+
+# internal Readme.md
+readmeinternal.md
