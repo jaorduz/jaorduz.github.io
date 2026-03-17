@@ -264,14 +264,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-    # Events
-  - scope:
-      path: ""
-      type: Events
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #   # Events
+  # - scope:
+  #     path: ""
+  #     type: Events
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 #JO:      sitemap: false      
 # Sass/SCSS

@@ -5,7 +5,7 @@ permalink: /events/
 author_profile: true
 ---
 
-# Events
+<!-- # Events -->
 
 ## Organizing
 
