@@ -75,6 +75,32 @@ author_profile: true
   font-size:22px;
   color:#0f3d75;
 }
+
+.event-tag{
+  display:inline-block;
+  padding:4px 10px;
+  border-radius:12px;
+  font-size:12px;
+  font-weight:600;
+  margin-right:6px;
+  margin-bottom:4px;
+}
+
+.event-tag:nth-child(1){
+  background:#e6f0ff;
+  color:#003366;
+}
+
+.event-tag:nth-child(2){
+  background:#e6fff2;
+  color:#006633;
+}
+
+.event-tag:nth-child(3){
+  background:#fff0f0;
+  color:#990000;
+}
+
 </style>
 
 ## Organizing
@@ -103,7 +129,20 @@ author_profile: true
           {{ event.excerpt }}
         </div>
 
-        <p><strong>Venue:</strong> {{ event.venue }}</p>
+        {% if event.tags %}
+  <div class="event-tags">
+    {% for tag in event.tags %}
+      <span class="event-tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
+{% endif %}
+
+        <!-- <p><strong>Venue:</strong> {{ event.venue }}</p> -->
+{% if event.livestream_url %}
+  <a href="{{ event.livestream_url }}" class="event-link" target="_blank" style="margin-left:10px; background:#b22222;">
+    {{ event.livestream_label | default: "Watch Live" }}
+  </a>
+{% endif %}
 
         <a href="{{ event.external_url | default: event.url }}" class="event-link" target="_blank" rel="noopener noreferrer">
           {{ event.cta_label | default: "Visit RAB 2026 Website" }}
