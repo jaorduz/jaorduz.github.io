@@ -17,21 +17,26 @@ tags: ["Research", "Collaboration", "Science","Proposals","Scientific writting"]
 
 ## Overview
 
-The **International Conference on Quantum and Emergent Technologies 2026** is an initiative designed to help researchers transform ideas into **competitive proposals, high-impact publications, and interdisciplinary collaborations**.
+The [International Conference on Quantum and Emergent Technologies 2026](https://lab.rivas.ai/iceqt/) is an event 
+to motivate participating about quantum computing which is an exciting and fast-growing field that combines ideas from mathematics, physics, and engineering. It relies on collaboration and contributions from many areas of science, technology, engineering, and mathematics (STEM) to make meaningful progress.
+
+We are thrilled to announce the International Conference on Emergent and Quantum Technologies (ICEQT’25), from July 21-24, 2025, in Las Vegas, NV. This conference is a fantastic opportunity for researchers in quantum machine learning and machine learning experts interested in using AI to improve quantum computing algorithms to share and discuss the latest breakthroughs in their fields.
+
+The intersection of machine learning and quantum computing has emerged as one of the most transformative research areas today, with AI accelerating quantum breakthroughs and quantum computing unlocking new frontiers in AI. As part of the CSCE 2025 World Congress, this conference provides a premier platform to showcase cutting-edge work at this dynamic crossroads.
 
 ## Key Information
 
-- **Role:** Organizer
+- **Role:** Co-chair
 - **Focus:** Research proposals, funding strategy, collaboration, and publication support
-- **Format:** Online / bilingual (Spanish–English)
+- **Format:** In person/English
 - **Affiliations:** FES Acatlán–UNAM, QMexico, and Qaldas
 
 ## Main Links
 
-- [Visit the official RAB 2026 website](https://rab2026.qaldas.com/)
-- [QMexico event page](https://qmexico.org/RAB2026)
+- [International Conference on Quantum and Emergent Technologies 2026](https://lab.rivas.ai/iceqt/)
+- [QMexico event page](https://qmexico.org/iceqt2026)
 
 ## Internal Note
 
 This page serves as an archive entry on my personal website.  
-For the official event website, schedule, and updates, please visit the main RAB 2026 site.
+For the official event website, schedule, and updates, please visit the main ICEQT 2026 site.
