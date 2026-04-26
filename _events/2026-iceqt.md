@@ -9,7 +9,7 @@ location: "USA"
 type: "Organizing"
 excerpt: "An international conference on Quantum and Emergent Technologies."
 author_profile: true
-external_url: "https://rab2026.qaldas.com/"
+# external_url: "https://lab.rivas.ai/iceqt/"
 internal_page: "/events/2026/iceqt"
 cta_label: "Visit Main Website"
 image: "/images/ICEQT2026.png"
