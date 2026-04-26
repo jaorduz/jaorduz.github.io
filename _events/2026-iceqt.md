@@ -3,14 +3,14 @@ title: "International Conference on Quantum and Emergent Technologies"
 collection: events
 layout: single
 permalink: /events/2026/iceqt
-date: 2026-05-20
+date: 2026-07-20
 venue: "Las Vegas, NV"
 location: "USA"
 type: "Organizing"
 excerpt: "An international conference on Quantum and Emergent Technologies."
 author_profile: true
 internal_page: "/events/2026/iceqt"
-# external_url: "https://lab.rivas.ai/iceqt/"
+external_url: "https://lab.rivas.ai/iceqt/"
 cta_label: "Visit Main Website"
 image: "/images/ICEQT2026.png"
 tags: ["Research", "Collaboration", "Science","Proposals","Scientific writting"]
