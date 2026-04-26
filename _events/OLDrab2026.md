@@ -8,6 +8,7 @@ date: 2026-06-01
 venue: "FESAc-UNAM-QMexico-Qaldas"
 location: "Mexico"
 excerpt: "RAB 2026 for experience and non-experience researchers"
+image: "/images/iqdd2026.png"
 ---
 
 # Events

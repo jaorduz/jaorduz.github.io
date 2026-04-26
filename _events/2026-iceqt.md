@@ -1,17 +1,18 @@
 ---
-title: "Research Accelerator Bootcamp 2026"
+title: "International Conference on Quantum and Emergent Technologies"
 collection: events
 layout: single
-permalink: /events/rab2026/
+permalink: /events/2026/iceqt
 date: 2026-05-19
-venue: "FES Acatlán–UNAM, QMexico, Qaldas"
-location: "Mexico"
+venue: "Las Vegas, NV"
+location: "USA"
 type: "Organizing"
-excerpt: "A research accelerator for experienced and early-career researchers."
+excerpt: "An international conference on Quantum and Emergent Technologies."
 author_profile: true
 external_url: "https://rab2026.qaldas.com/"
-internal_page: "/events/rab2026/"
+internal_page: "/events/2026/iceqt"
 cta_label: "Visit Main Website"
+image: "/images/ICEQT2026.png"
 tags: ["Research", "Collaboration", "Science","Proposals","Scientific writting"]
 ---
 
