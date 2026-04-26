@@ -3,22 +3,21 @@ title: "International Conference on Quantum and Emergent Technologies"
 collection: events
 layout: single
 permalink: /events/2026/iceqt
-date: 2026-05-19
+date: 2026-07-20
 venue: "Las Vegas, NV"
 location: "USA"
 type: "Organizing"
 excerpt: "An international conference on Quantum and Emergent Technologies."
 author_profile: true
-# external_url: "https://lab.rivas.ai/iceqt/"
 internal_page: "/events/2026/iceqt"
+external_url: "https://lab.rivas.ai/iceqt/"
 cta_label: "Visit Main Website"
 image: "/images/ICEQT2026.png"
 tags: ["Research", "Collaboration", "Science","Proposals","Scientific writting"]
----
 
 ## Overview
 
-The **Research Accelerator Bootcamp 2026** is a bilingual initiative designed to help researchers transform ideas into **competitive proposals, high-impact publications, and interdisciplinary collaborations**.
+The **International Conference on Quantum and Emergent Technologies 2026** is an initiative designed to help researchers transform ideas into **competitive proposals, high-impact publications, and interdisciplinary collaborations**.
 
 ## Key Information
 
