@@ -145,7 +145,7 @@ author_profile: true
 {% endif %}
 
         <a href="{{ event.external_url | default: event.url }}" class="event-link" target="_blank" rel="noopener noreferrer">
-          {{ event.cta_label | default: "Visit RAB 2026 Website" }}
+          {{ event.cta_label | default: "Visit Main Website" }}
         </a>
 
         <!-- <p style="margin-top:10px;">
@@ -166,7 +166,7 @@ author_profile: true
     <div class="event-card">
       <div class="event-content">
         <div class="event-title">
-          <a href="{{ event.internal_page | default: event.url }}" target="_blank" rel="noopener noreferrer">
+          <a href="{{ event.internal_page | default: event.url }}" target="_blank" rel="noopener noreferrer"> 
             {{ event.title }}
           </a>
         </div>
