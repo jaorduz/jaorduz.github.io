@@ -166,7 +166,7 @@ author_profile: true
     <div class="event-card">
       <div class="event-content">
         <div class="event-title">
-          <a href="{{ event.external_url | default: event.url }}" target="_blank" rel="noopener noreferrer">
+          <a href="{{ event.internal_page | default: event.url }}" target="_blank" rel="noopener noreferrer">
             {{ event.title }}
           </a>
         </div>
