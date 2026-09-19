@@ -7,11 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computational physicist and researcher working at the intersection of **quantum computing, machine learning, and data science**. My work develops mathematical and computational methods for hybrid quantum-classical systems, secure AI, and scientific discovery.
+<div class="homepage-hero">
+  <p class="homepage-hero__intro">I am a computational physicist and researcher working at the intersection of <strong>quantum computing, machine learning, and data science</strong>. My work develops mathematical and computational methods for hybrid quantum-classical systems, secure AI, and scientific discovery.</p>
 
-[Download CV](/files/cv/JO_CV_Full.pdf){: .btn .btn--primary}
-[Explore publications](/publications/){: .btn .btn--inverse}
-[Contact me](mailto:jaorduz@ieee.org){: .btn .btn--inverse}
+  <div class="homepage-hero__actions" aria-label="Primary links">
+    <a class="btn btn--primary" href="/files/cv/JO_CV_Full.pdf">Download CV</a>
+    <a class="btn btn--inverse" href="/publications/">Explore publications</a>
+    <a class="btn btn--inverse" href="mailto:jaorduz@ieee.org">Contact me</a>
+  </div>
+
+  <nav class="homepage-hero__next" aria-label="Explore homepage">
+    <span>Explore the work</span>
+    <a href="#research-focus">Research</a>
+    <a href="#impact-snapshot">Impact</a>
+    <a href="#initiatives-and-collaboration">Initiatives</a>
+  </nav>
+</div>
 
 ## Research focus
 
@@ -23,13 +34,15 @@ My research connects physics, mathematics, and computer science across three com
 
 ## Impact snapshot
 
+{% assign metrics = site.data.metrics %}
+
 | Indicator | Value | Source |
 | --- | ---: | --- |
-| DOI-indexed works | 28 | [OpenAlex author profile](https://openalex.org/A5088072249){:target="_blank"} |
-| Cited-by count | 467 | [OpenAlex author profile](https://openalex.org/A5088072249){:target="_blank"} |
-| OpenAlex h-index | 9 | [OpenAlex author profile](https://openalex.org/A5088072249){:target="_blank"} |
+| DOI-indexed works | {{ metrics.works }} | [OpenAlex author profile]({{ metrics.profile_url }}){:target="_blank"} |
+| Cited-by count | {{ metrics.cited_by }} | [OpenAlex author profile]({{ metrics.profile_url }}){:target="_blank"} |
+| OpenAlex h-index | {{ metrics.h_index }} | [OpenAlex author profile]({{ metrics.profile_url }}){:target="_blank"} |
 
-*OpenAlex metrics retrieved September 17, 2026. Citation counts vary by database. See the [Google Scholar profile](https://scholar.google.com/citations?user=rHvwRj0AAAAJ&sortby=pubdate){:target="_blank"} for the broader citation record.*
+*OpenAlex metrics retrieved {{ metrics.updated }}. Citation counts vary by database. See the [Google Scholar profile](https://scholar.google.com/citations?user=rHvwRj0AAAAJ&sortby=pubdate){:target="_blank"} for the broader citation record.*
 
 ## Selected publications
 

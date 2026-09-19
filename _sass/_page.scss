@@ -48,6 +48,48 @@
   font-size: $type-size-4;
 }
 
+.homepage-hero {
+  max-width: 48rem;
+  margin: 0 auto 3em;
+  text-align: center;
+
+  &__intro {
+    margin-bottom: 1.5em !important;
+    font-size: 1.15em !important;
+    line-height: 1.7;
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.7em;
+    margin-bottom: 1.4em;
+
+    .btn {
+      min-width: 10.5em;
+      margin: 0;
+    }
+  }
+
+  &__next {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.35em 1em;
+    color: $gray;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+
+    span {
+      flex-basis: 100%;
+      margin-bottom: 0.15em;
+      color: $text-color;
+      font-weight: bold;
+    }
+  }
+}
+
 .page__content {
 
   h2 {

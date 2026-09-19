@@ -417,6 +417,143 @@ import_orcid_publications() {
     --output-dir "$ROOT_DIR/_publications"
 }
 
+update_impact_metrics() {
+  python3 "$ROOT_DIR/scripts/update_openalex_metrics.py" \
+    --output "$ROOT_DIR/_data/metrics.yml"
+}
+
+list_teaching() {
+  printf '\nCursos disponibles:\n'
+  found=0
+
+  for course_file in "$ROOT_DIR/_teaching"/*.md; do
+    [ -f "$course_file" ] || continue
+    found=1
+    title=$(sed -n 's/^title: *"\(.*\)"/\1/p' "$course_file" | head -n 1)
+    course_date=$(sed -n 's/^date: *//p' "$course_file" | head -n 1)
+    course_type=$(sed -n 's/^type: *"\(.*\)"/\1/p' "$course_file" | head -n 1)
+    printf '  %-34s %-10s %-20s %s\n' "$(basename "$course_file")" "${course_date:-sin fecha}" "${course_type:-sin tipo}" "${title:-sin título}"
+  done
+
+  [ "$found" -eq 1 ] || printf '  No hay cursos todavía.\n'
+}
+
+choose_teaching() {
+  list_teaching
+  printf '\nEscribe el nombre del archivo del curso: '
+  if ! read -r course_name; then
+    return 1
+  fi
+
+  case "$course_name" in
+    *.md) ;;
+    *) course_name="$course_name.md" ;;
+  esac
+
+  case "$course_name" in
+    ""|*/*|*..*)
+      printf 'Nombre inválido.\n' >&2
+      return 1
+      ;;
+  esac
+
+  course_path="$ROOT_DIR/_teaching/$course_name"
+  if [ ! -f "$course_path" ]; then
+    printf 'No existe: %s\n' "$course_name" >&2
+    return 1
+  fi
+}
+
+create_teaching() {
+  printf '\nNombre del archivo nuevo (sin .md): '
+  if ! read -r course_name; then
+    return 1
+  fi
+  course_name=${course_name%.md}
+
+  case "$course_name" in
+    ""|*/*|*..*)
+      printf 'Nombre inválido. Usa letras, números, guiones y guiones bajos.\n' >&2
+      return 1
+      ;;
+  esac
+
+  course_path="$ROOT_DIR/_teaching/$course_name.md"
+  if [ -e "$course_path" ]; then
+    printf 'Ya existe: %s\n' "$course_path" >&2
+    return 1
+  fi
+
+  cat > "$course_path" <<'EOF'
+---
+title: "Course title"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/YYYY/term-course-name
+date: YYYY-MM-DD
+venue: "Department and institution"
+location: "City, country"
+---
+
+Course description, learning goals, and relevant resources.
+
+## Course materials
+
+- [Course website](https://example.com){:target="_blank"}
+- Add syllabus, bibliography, software, or project links here.
+EOF
+
+  open_in_editor "$course_path"
+  printf 'Curso creado: %s\n' "$course_path"
+}
+
+edit_teaching() {
+  choose_teaching || return 1
+  open_in_editor "$course_path"
+  printf 'Curso actualizado: %s\n' "$(basename "$course_path")"
+}
+
+delete_teaching() {
+  choose_teaching || return 1
+  printf '¿Borrar %s? Esta acción no se puede deshacer desde el menú [y/N]: ' "$(basename "$course_path")"
+  if ! read -r confirmation; then
+    return 1
+  fi
+  case "$confirmation" in
+    y|Y|s|S)
+      rm "$course_path"
+      printf 'Curso borrado.\n'
+      ;;
+    *)
+      printf 'Operación cancelada.\n'
+      ;;
+  esac
+}
+
+teaching_menu() {
+  while true; do
+    printf '\n=== Gestión de cursos ===\n'
+    printf '1) Listar cursos\n'
+    printf '2) Crear curso\n'
+    printf '3) Modificar curso\n'
+    printf '4) Borrar curso\n'
+    printf '0) Volver\n'
+    printf 'Selecciona una opción: '
+    if ! read -r option; then
+      return 0
+    fi
+
+    case "$option" in
+      1) list_teaching; pause ;;
+      2) create_teaching; pause ;;
+      3) edit_teaching; pause ;;
+      4) delete_teaching; pause ;;
+      0) return ;;
+      *) printf 'Opción no válida.\n' ;;
+    esac
+  done
+}
+
 update_git_repo() {
   cd "$ROOT_DIR"
 
@@ -445,6 +582,10 @@ update_git_repo() {
     y|Y|s|S) ;;
     *) printf 'Operación cancelada.\n'; return 0 ;;
   esac
+
+  git add -A || return 1
+  printf '\nCambios preparados para el commit:\n'
+  git status --short
   git commit -m "$commit_message" || return 1
   git push || return 1
   printf 'Repositorio actualizado correctamente.\n'
@@ -459,6 +600,8 @@ while true; do
   printf '5) Actualizar repositorio en Git\n'
   printf '6) Gestionar publicaciones\n'
   printf '7) Importar publicaciones desde ORCID\n'
+  printf '8) Actualizar métricas de impacto\n'
+  printf '9) Gestionar cursos de Teaching\n'
   printf '0) Salir\n'
   printf 'Selecciona una opción: '
   if ! read -r option; then
@@ -473,6 +616,8 @@ while true; do
     5) update_git_repo; pause ;;
     6) publications_menu ;;
     7) import_orcid_publications; pause ;;
+    8) update_impact_metrics; pause ;;
+    9) teaching_menu ;;
     0) printf 'Hasta luego.\n'; exit 0 ;;
     *) printf 'Opción no válida.\n' ;;
   esac
