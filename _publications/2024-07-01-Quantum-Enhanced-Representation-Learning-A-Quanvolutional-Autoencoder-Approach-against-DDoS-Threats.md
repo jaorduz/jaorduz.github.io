@@ -1,12 +1,14 @@
 ---
 title: "Quantum-Enhanced Representation Learning: A Quanvolutional Autoencoder Approach against DDoS Threats"
 collection: publications
-permalink: /publication/2024-07-01-Quantum-Enhanced-Representation-Learning-A-Quanvolutional-Autoencoder-Approach-against-DDoS-Threats
-excerpt: '{DOI: 10.3390/make6020044, URL https://www.mdpi.com/2504-4990/6/2/44, ISSN: 2504-4990}'
-date: 2024-07-01
-venue: 'Machine Learning and Knowledge Extraction'
-citation: ' Pablo Rivas,  Javier Orduz,  Tonni Jui,  Casimer DeCusatis,  Bikram Khanal, &quot;Quantum-Enhanced Representation Learning: A Quanvolutional Autoencoder Approach against DDoS Threats.&quot; Machine Learning and Knowledge Extraction, 2024.'
+permalink: /publication/2024-05-01-quantum-enhanced-representation-learning-a-quanvolutional-autoencoder-approach-against-ddos-threats
+excerpt: "DOI: 10.3390/make6020044"
+date: 2024-05-01
+venue: "Machine Learning and Knowledge Extraction"
+paperurl: "https://doi.org/10.3390/make6020044"
+citation: "Pablo Rivas, Javier Orduz, Tonni Das Jui, Casimer DeCusatis, Bikram Khanal. \"Quantum-Enhanced Representation Learning: A Quanvolutional Autoencoder Approach against DDoS Threats.\" Machine Learning and Knowledge Extraction, 2024. DOI: 10.3390/make6020044."
 ---
-{DOI: 10.3390/make6020044, URL https://www.mdpi.com/2504-4990/6/2/44, ISSN: 2504-4990}
 
-Use [Google Scholar](https://scholar.google.com/scholar?q=Quantum+Enhanced+Representation+Learning:+A+Quanvolutional+Autoencoder+Approach+against+DDoS+Threats){:target="_blank"} for full citation
+[Access paper via DOI](https://doi.org/10.3390/make6020044){:target="_blank"}
+
+Use [Google Scholar](https://scholar.google.com/scholar?q=Quantum-Enhanced%20Representation%20Learning%3A%20A%20Quanvolutional%20Autoencoder%20Approach%20against%20DDoS%20Threats){:target="_blank"} for related citations.

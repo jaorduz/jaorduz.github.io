@@ -196,6 +196,227 @@ show_status() {
   (cd "$ROOT_DIR" && git status --short)
 }
 
+add_or_update_publication() {
+  printf '\nDOI o URL del paper: '
+  if ! read -r publication_identifier; then
+  return 1
+  fi
+  if [ -z "$publication_identifier" ]; then
+  printf 'Debes proporcionar un DOI o una URL.\n' >&2
+  return 1
+  fi
+
+  publication_path=$(python3 - "$publication_identifier" "$ROOT_DIR" <<'PY'
+import json
+import re
+import sys
+import urllib.error
+import urllib.parse
+import urllib.request
+from datetime import date
+from pathlib import Path
+
+identifier, root = sys.argv[1:]
+identifier = identifier.strip()
+if identifier.startswith(("http://", "https://")):
+  parsed = urllib.parse.urlparse(identifier)
+  doi_match = re.search(r"10\.\d{4,9}/[-._;()/:A-Z0-9]+", identifier, re.IGNORECASE)
+  doi = doi_match.group(0) if doi_match else parsed.path.strip("/")
+else:
+  doi = identifier
+doi = urllib.parse.unquote(doi).strip().rstrip(".")
+if doi.lower().startswith("doi:"):
+  doi = doi[4:].strip()
+
+if not doi or "/" not in doi:
+  print("No parece un DOI válido.", file=sys.stderr)
+  sys.exit(1)
+
+api_url = "https://api.crossref.org/works/" + urllib.parse.quote(doi, safe="/")
+request = urllib.request.Request(api_url, headers={"User-Agent": "jaorduz.github.io publication manager"})
+try:
+  with urllib.request.urlopen(request, timeout=20) as response:
+    metadata = json.load(response)["message"]
+except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, KeyError, json.JSONDecodeError) as error:
+  print(f"No se pudo consultar Crossref: {error}", file=sys.stderr)
+  sys.exit(1)
+
+def first_value(values, default=""):
+  return values[0] if values else default
+
+title = first_value(metadata.get("title"), "Untitled publication").strip()
+venue = first_value(metadata.get("container-title"), metadata.get("publisher", "")).strip()
+authors = []
+for author in metadata.get("author", []):
+  name = " ".join(part for part in (author.get("given", ""), author.get("family", "")) if part).strip()
+  if name:
+    authors.append(name)
+
+date_parts = []
+for key in ("published-print", "published-online", "issued", "created"):
+  date_parts = metadata.get(key, {}).get("date-parts", [])
+  if date_parts:
+    date_parts = date_parts[0]
+    break
+if date_parts:
+  publication_date = "-".join(str(value).zfill(2) for value in date_parts)
+  if len(date_parts) == 1:
+    publication_date += "-01-01"
+  elif len(date_parts) == 2:
+    publication_date += "-01"
+else:
+  publication_date = str(date.today())
+
+slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:120]
+filename = f"{publication_date}-{slug}.md"
+publications_dir = Path(root) / "_publications"
+publications_dir.mkdir(parents=True, exist_ok=True)
+doi_marker = doi.lower()
+target = None
+for candidate in publications_dir.glob("*.md"):
+  if doi_marker in candidate.read_text(encoding="utf-8").lower():
+    target = candidate
+    break
+if target is None:
+  target = publications_dir / filename
+
+def yaml_string(value):
+  return json.dumps(value, ensure_ascii=False)
+
+citation_authors = ", ".join(authors) if authors else "Unknown author"
+citation = f"{citation_authors}. \"{title}.\""
+if venue:
+  citation += f" {venue},"
+citation += f" {publication_date[:4]}."
+doi_url = f"https://doi.org/{doi}"
+scholar_url = "https://scholar.google.com/scholar?q=" + urllib.parse.quote(title)
+content = "\n".join([
+  "---",
+  f"title: {yaml_string(title)}",
+  "collection: publications",
+  f"permalink: /publication/{publication_date}-{slug}",
+  f"excerpt: {yaml_string('DOI: ' + doi)}",
+  f"date: {publication_date}",
+  f"venue: {yaml_string(venue)}",
+  f"paperurl: {yaml_string(doi_url)}",
+  f"citation: {yaml_string(citation)}",
+  "---",
+  "",
+  f"[Access paper via DOI]({doi_url}){{:target=\"_blank\"}}",
+  "",
+  f"Use [Google Scholar]({scholar_url}){{:target=\"_blank\"}} for related citations.",
+  "",
+])
+target.write_text(content, encoding="utf-8")
+print(target)
+PY
+  ) || return 1
+
+  printf 'Publicación generada en %s\n' "${publication_path#$ROOT_DIR/}"
+  open_in_editor "$publication_path"
+}
+
+list_publications() {
+  printf '\nPublicaciones disponibles:\n'
+  found=0
+
+  for publication_file in "$ROOT_DIR/_publications"/*.md; do
+    [ -f "$publication_file" ] || continue
+    found=1
+    title=$(sed -n 's/^title: *"\(.*\)"/\1/p' "$publication_file" | head -n 1)
+    publication_date=$(sed -n 's/^date: *//p' "$publication_file" | head -n 1)
+    venue=$(sed -n 's/^venue: *"\(.*\)"/\1/p' "$publication_file" | head -n 1)
+    printf '  %-72s %-10s %s (%s)\n' "$(basename "$publication_file")" "${publication_date:-sin fecha}" "${title:-sin título}" "${venue:-sin revista}"
+  done
+
+  [ "$found" -eq 1 ] || printf '  No hay publicaciones todavía.\n'
+}
+
+choose_publication() {
+  list_publications
+  printf '\nEscribe el nombre del archivo de la publicación: '
+  if ! read -r publication_name; then
+    return 1
+  fi
+
+  case "$publication_name" in
+    *.md) ;;
+    *) publication_name="$publication_name.md" ;;
+  esac
+
+  case "$publication_name" in
+    ""|*/*|*..*)
+      printf 'Nombre inválido.\n' >&2
+      return 1
+      ;;
+  esac
+
+  publication_path="$ROOT_DIR/_publications/$publication_name"
+  if [ ! -f "$publication_path" ]; then
+    printf 'No existe: %s\n' "$publication_name" >&2
+    return 1
+  fi
+}
+
+edit_publication() {
+  choose_publication || return 1
+  open_in_editor "$publication_path"
+  printf 'Publicación actualizada: %s\n' "$(basename "$publication_path")"
+}
+
+delete_publication() {
+  choose_publication || return 1
+  printf '¿Borrar %s? Esta acción no se puede deshacer desde el menú [y/N]: ' "$(basename "$publication_path")"
+  if ! read -r confirmation; then
+    return 1
+  fi
+  case "$confirmation" in
+    y|Y|s|S)
+      rm "$publication_path"
+      printf 'Publicación borrada.\n'
+      ;;
+    *)
+      printf 'Operación cancelada.\n'
+      ;;
+  esac
+}
+
+publications_menu() {
+  while true; do
+    printf '\n=== Gestión de publicaciones ===\n'
+    printf '1) Listar publicaciones\n'
+    printf '2) Agregar o actualizar desde DOI/URL\n'
+    printf '3) Modificar publicación manualmente\n'
+    printf '4) Borrar publicación\n'
+    printf '0) Volver\n'
+    printf 'Selecciona una opción: '
+    if ! read -r option; then
+      return 0
+    fi
+
+    case "$option" in
+      1) list_publications; pause ;;
+      2) add_or_update_publication; pause ;;
+      3) edit_publication; pause ;;
+      4) delete_publication; pause ;;
+      0) return ;;
+      *) printf 'Opción no válida.\n' ;;
+    esac
+  done
+}
+
+import_orcid_publications() {
+  printf '\nORCID [0000-0003-0279-7458]: '
+  if ! read -r orcid; then
+    return 1
+  fi
+  orcid=${orcid:-0000-0003-0279-7458}
+
+  python3 "$ROOT_DIR/scripts/import_openalex_publications.py" \
+    --orcid "$orcid" \
+    --output-dir "$ROOT_DIR/_publications"
+}
+
 update_git_repo() {
   cd "$ROOT_DIR"
 
@@ -224,8 +445,6 @@ update_git_repo() {
     y|Y|s|S) ;;
     *) printf 'Operación cancelada.\n'; return 0 ;;
   esac
-
-  git add -A || return 1
   git commit -m "$commit_message" || return 1
   git push || return 1
   printf 'Repositorio actualizado correctamente.\n'
@@ -238,6 +457,8 @@ while true; do
   printf '3) Validar build de Jekyll\n'
   printf '4) Ver estado de Git\n'
   printf '5) Actualizar repositorio en Git\n'
+  printf '6) Gestionar publicaciones\n'
+  printf '7) Importar publicaciones desde ORCID\n'
   printf '0) Salir\n'
   printf 'Selecciona una opción: '
   if ! read -r option; then
@@ -250,6 +471,8 @@ while true; do
     3) validate_site; pause ;;
     4) show_status; pause ;;
     5) update_git_repo; pause ;;
+    6) publications_menu ;;
+    7) import_orcid_publications; pause ;;
     0) printf 'Hasta luego.\n'; exit 0 ;;
     *) printf 'Opción no válida.\n' ;;
   esac

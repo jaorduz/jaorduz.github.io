@@ -14,7 +14,7 @@ For a complete and continuously updated list of my publications, please visit my
 
 You may also download my full CV here:
 
-<a href="/files/cv/javier-orduz-cv.pdf" target="_blank">
+<a href="/files/cv/JO_CV_Full.pdf" target="_blank" rel="noopener noreferrer">
 Download Full CV (PDF)
 </a>
 
