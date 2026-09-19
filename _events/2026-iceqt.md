@@ -6,7 +6,7 @@ permalink: /events/2026/iceqt
 date: 2026-07-20
 venue: "Las Vegas, NV"
 location: "USA"
-type: "Organizing"
+type: "Archived"
 excerpt: "An international conference on Quantum and Emergent Technologies."
 author_profile: true
 internal_page: "/events/2026/iceqt"

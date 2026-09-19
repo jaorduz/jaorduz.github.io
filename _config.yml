@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Researcher and professor"
+title                    : "Javier Orduz"
 title_separator          : "-"
 name                     : &name "Javier Orduz"
-description              : &description "personal description"
+description              : &description "Computational physicist and researcher in quantum computing, machine learning, and data science."
 url                      : https://jaorduz.github.io 
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaorduz/jaorduz.github.io" #"https://jaorduz.github.io"
 # JO: academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "profile/foto_A.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false # JO: activate to show future events
@@ -68,9 +68,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Javier Orduz"
+  links:
+    - "https://github.com/jaorduz"
+    - "https://www.linkedin.com/in/jaorduz/"
+    - "https://orcid.org/0000-0003-0279-7458"
 
 # Analytics
 analytics:
@@ -82,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Javier Orduz"
-  avatar           : "profile.png"
+  avatar           : "profile/foto_A.jpg"
   bio              : "Computational Physicist | Quantum & Machine Learning Researcher | Bridging Theory, Data Science, and Emerging Technologies."#"QML Scientist. IEEE and APS member."#Visit. Asst. Prof. at EC. Math and CS Dept. QML Scientist. IEEE and APS member."
   location         : "COL-MEX-USA"
   employer         : "UNAM" #QMexic and Qaldas, Earlham College"
@@ -139,9 +142,7 @@ exclude:
   - Gruntfile.js
   - LICENSE
   - README
-  - Rakefile
   - assets/js/_main.js
-  - assets/js/plugins
   - assets/js/vendor
   - config
   - gulpfile.js

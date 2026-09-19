@@ -40,7 +40,7 @@
 - `_publications/` — publications
 - `_talks/` — talks
 - `_teaching/` — teaching
-- `files/cv/cv.pdf` — current CV
+- `files/cv/javier-orduz-cv.pdf` — current CV
 - `assets/images/` — profile and page images
 - `_data/navigation.yml` — menu
 

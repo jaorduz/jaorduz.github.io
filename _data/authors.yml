@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
+Javier Orduz:
   name        : "Javier Orduz"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "profile.png"
+  email       : "jaorduz@ieee.org"
+  bio         : "Computational physicist and researcher in quantum computing, machine learning, and data science."
+  avatar      : "profile/foto_A.jpg"
   twitter     : "jaorduc"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  github      : "jaorduz"
+  linkedin    : "jaorduz"
+  orcid       : "0000-0003-0279-7458"
